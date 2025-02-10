@@ -1,16 +1,16 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: DFG RU SOS
+tagline: DFG RU SOS
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  The demo site for the DFG RU SOS, made for Jekyll and GitHub pages websites
 baseurl: "/dfg-sos-draft01"
 url: "https://www.csrhymes.com"
 permalink: pretty
 favicon: /favicon.png
 # gh_sponsor: chrisrhymes
-#hide_share_buttons: true
+hide_share_buttons: false
 #theme_color: '#eeeeee'
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
@@ -24,7 +24,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  shortname:
 
 
 plugins:
