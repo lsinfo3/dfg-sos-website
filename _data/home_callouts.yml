@@ -5,15 +5,11 @@ items:
   #   subtitle: Chair of Communication Networks (Informatik III)
   #   image: "https://www.informatik.uni-wuerzburg.de/fileadmin/_processed_/4/a/csm_Hossfeld_Tobias_18708_KLEIN_cbee1f18e4.jpg"
   - title: Callouts
-    subtitle: This section is called callout and is very easy to change
+    subtitle: This section is called callout and is very easily changed
     icon: fa-lightbulb
   - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
+    subtitle: Multiple layouts supported, including sidebar, menubar, tabs and callouts
     icon: fa-copy
   - title: Blog included
     subtitle: Layouts for blog and post pages included
     icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
-    icon: fa-github
-    icon_brand: true
