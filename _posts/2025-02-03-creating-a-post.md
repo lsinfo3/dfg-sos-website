@@ -32,7 +32,7 @@ date: 2025-02-03 11:00:07
 Then just write your blog post
 
 
-``` markdown
+```` markdown
 ## Creating a post
 
 To add a new blog entry, create a new markdown file in the `_posts` directory.
@@ -52,4 +52,4 @@ date: 2025-02-03 11:00:07
 ## Content
 
 Then just write your blog post
-```
+````
