@@ -6,9 +6,9 @@
                 <p class="title is-3 has-text-centered">
                     <span>{{ tier.tier_name }}</span>
                 </p>
-                <p class="subtitle has-text-centered">
-                    <span class="icon is-large gh-sponsor"><i class="fas fa-heart fa-2x"></i></span>
-                </p>
+                <!-- <p class="subtitle has-text-centered"> -->
+                <!--     <span class="icon is-large gh-sponsor"><i class="fas fa-heart fa-2x"></i></span> -->
+                <!-- </p> -->
                 <div class="columns is-centered">
                     <div class="column is-6 content has-text-centered">
                         <p>{{ tier.description | markdownify }}</p>
@@ -18,21 +18,37 @@
                 <div class="columns is-multiline is-centered">
                     {% for sponsor in tier.sponsors %}
                         <div class="column {% if tier.size == 'large' %} is-4-desktop is-6-tablet {% else %} is-3-desktop is-4-tablet {% endif %} is-centered">
-                            <figure class="image is-128x128">
-                                <img class="is-rounded" src="{{ sponsor.image }}" />
-                            </figure>
-                            <div class="box has-text-centered">
-                                <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
-                                    {{ sponsor.name }}
-                                </p>
-                                <p class="subtitle is-6">
-                                    {% if sponsor.profile %}
-                                        <a href="{{ sponsor.profile }}" class="is-link is-small">View Profile</a>
-                                    {% else %}
-                                        &nbsp;
-                                    {% endif %}
-                                </p>
+                            <div class="card">
+                                <div class="card-image has-text-centered">
+                                    <figure class="image is-256x256 is-inline-block">
+                                        <img class="is-rounded" src="{{ sponsor.image }}" />
+                                    </figure>
+                                </div>
+                                <div class="card-content">
+                                    <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
+                                        {{ sponsor.name }}
+                                    </p>
+                                    <p>
+                                        {{ sponsor.description }}
+                                    </p>
+                                </div>
                             </div>
+
+                            <!-- <figure class="image is-128x128"> -->
+                            <!--     <img class="is-rounded" src="{{ sponsor.image }}" /> -->
+                            <!-- </figure> -->
+                            <!-- <div class="box has-text-centered"> -->
+                            <!--     <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}"> -->
+                            <!--         {{ sponsor.name }} -->
+                            <!--     </p> -->
+                            <!--     <p class="subtitle is-6"> -->
+                            <!--         {% if sponsor.profile %} -->
+                            <!--             <a href="{{ sponsor.profile }}" class="is-link is-small">View Profile</a> -->
+                            <!--         {% else %} -->
+                            <!--             &nbsp; -->
+                            <!--         {% endif %} -->
+                            <!--     </p> -->
+                            <!-- </div> -->
                         </div>
                     {% endfor %}
                 </div>
