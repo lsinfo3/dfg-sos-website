@@ -1,10 +1,10 @@
 # Site Settings
 lang: en
-title: DFG RU SOS
-tagline: DFG RU SOS
+title: DFG FOR SOS
+tagline: DFG FOR SOS
 email: your-email@domain.com
 description: >
-  The demo site for the DFG RU SOS, made for Jekyll and GitHub pages websites
+  The demo site for the DFG FOR SOS, made for Jekyll and GitHub pages websites
 baseurl: "/dfg-sos-draft01"
 url: "https://www.csrhymes.com"
 permalink: pretty

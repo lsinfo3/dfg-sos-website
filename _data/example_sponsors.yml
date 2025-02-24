@@ -1,44 +1,53 @@
-- tier_name: Platinum Sponsors
+- tier_name: Leader
   size: large
   description: |-
-    This is the description for the Platinum Tier.
+    Lorem Ipsum asdlf asdvae 1
+  sponsors:
+    - name: Dave McDave
+      profile: https://github.com/
+      image: https://bulma.io/assets/images/placeholders/128x128.png
+    - name: Sarah Lee-Cheesecake
+      profile: https://github.com/
+      image: https://bulma.io/assets/images/placeholders/128x128.png
 
-    It can contain multiple lines. It has the size set to 'large'.
-  sponsors:
-    - name: Dave McDave
-      profile: https://github.com/
-    - name: Sarah Lee-Cheesecake
-      profile: https://github.com/
-- tier_name: Gold Sponsors
+- tier_name: Others
   description: |-
-    This is the description for the Gold Tier
+    Lorem Ipsum asdlf asdvae 2
   sponsors:
     - name: Dave McDave
       profile: https://github.com/
+      image: https://bulma.io/assets/images/placeholders/128x128.png
     - name: Sarah Lee-Cheesecake
       profile: https://github.com/
+      image: https://bulma.io/assets/images/placeholders/128x128.png
     - name: John Smith
       profile: https://github.com/
-- tier_name: Standard Sponsors
+      image: https://bulma.io/assets/images/placeholders/128x128.png
+
+- tier_name: Underlings
   size: small
   description: |-
-    This is the description for the Standard Tier.
-
-    It has the size set to 'small'.
-
-    The profile is not required so if it's not set the link will not appear.
+    Lorem Ipsum asdlf asdvae 3
   sponsors:
     - name: Dave McDave
       profile: https://github.com/
+      image: https://bulma.io/assets/images/placeholders/128x128.png
     - name: Sarah Lee-Cheesecake
       profile: https://github.com/
+      image: https://bulma.io/assets/images/placeholders/128x128.png
     - name: John Smith
       profile: https://github.com/
+      image: https://bulma.io/assets/images/placeholders/128x128.png
     - name: Jane Smith
       profile: https://github.com
+      image: https://bulma.io/assets/images/placeholders/128x128.png
     - name: John Doe
       profile: https://github.com/
+      image: https://bulma.io/assets/images/placeholders/128x128.png
     - name: Jane Doe
       profile: https://github.com/
+      image: https://bulma.io/assets/images/placeholders/128x128.png
     - name: John Jones
+      image: https://bulma.io/assets/images/placeholders/128x128.png
     - name: Jane Jones
+      image: https://bulma.io/assets/images/placeholders/128x128.png

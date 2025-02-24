@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sponsors Page
+title: Teams Page
 subtitle: An example sponsors page
 sponsors: example_sponsors
 show_sidebar: false

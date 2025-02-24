@@ -1,5 +1,5 @@
 ---
-title: DFG RU SOS
+title: DFG FOR SOS
 subtitle: This is the demo site for the DFG SOS project
 layout: page
 image: assets/img/DFG-RU-SOS-dark_trim.webp
