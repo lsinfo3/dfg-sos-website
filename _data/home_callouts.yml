@@ -1,15 +1,17 @@
 style: is-light
 items:
 
-  # - title: Prof. Dr. Tobias Hoßfeld
-  #   subtitle: Chair of Communication Networks (Informatik III)
-  #   image: "https://www.informatik.uni-wuerzburg.de/fileadmin/_processed_/4/a/csm_Hossfeld_Tobias_18708_KLEIN_cbee1f18e4.jpg"
-  - title: Callouts
-    subtitle: This section is called callout and is very easily changed
-    icon: fa-lightbulb
-  - title: Multiple page layouts
-    subtitle: Multiple layouts supported, including sidebar, menubar, tabs and callouts
-    icon: fa-copy
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
-    icon: fa-mail-bulk
+  - title: Publications
+    subtitle: Recent publications
+    icon: fa-book-open-reader
+    link: /publications/
+
+  - title: News
+    subtitle: News from the project
+    icon: fa-newspaper
+    link: /news/
+
+  - title: Blog
+    subtitle: Blogposts about the project
+    icon: fa-blog
+    link: /blog/

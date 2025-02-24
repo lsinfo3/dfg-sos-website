@@ -5,6 +5,7 @@
             <div class="container">
                 <div class="columns is-multiline is-centered">
                     {% for callout in callouts.items %}
+                        <a href="{{ callout.link | relative_url }}" >
                         <div class="column is-4 has-text-centered">
                             {% if callout.icon %}
                                 <div class="icon callout-icon">
@@ -26,17 +27,18 @@
                                 </div>
                             {% endif %}
 
-                            {% if callout.call_to_action_name %}
-                                <div class="my-4">
-                                    <a
-                                        href="{{ callout.call_to_action_link | relative_url }}"
-                                        class="button is-primary"
-                                    >
-                                        {{ callout.call_to_action_name }}
-                                    </a>
-                                </div>
-                            {% endif %}
+                            <!-- {% if callout.call_to_action_name %} -->
+                            <!--     <div class="my-4"> -->
+                            <!--         <a -->
+                            <!--             href="{{ callout.call_to_action_link | relative_url }}" -->
+                            <!--             class="button is-primary" -->
+                            <!--         > -->
+                            <!--             {{ callout.call_to_action_name }} -->
+                            <!--         </a> -->
+                            <!--     </div> -->
+                            <!-- {% endif %} -->
                         </div>
+                        </a>
                     {% endfor %}
                 </div>
             </div>
