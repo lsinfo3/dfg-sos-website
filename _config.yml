@@ -50,6 +50,7 @@ livereload: true
 
 scholar:
    style: ieee
+   source: ./_bibliography
    bibliography: references.bib
 
 
