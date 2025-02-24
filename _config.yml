@@ -34,6 +34,7 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
   - jekyll-redirect-from
+  - jekyll/scholar
 
 exclude:
   - Gemfile
@@ -46,6 +47,11 @@ exclude:
   - vendor/ruby/
 
 livereload: true
+
+scholar:
+   style: ieee
+   bibliography: references.bib
+
 
 sass:
   style: compressed
