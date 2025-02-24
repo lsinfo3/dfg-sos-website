@@ -5,12 +5,12 @@
   sponsors:
     - name: Dave McDave
       profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/128x128.png
+      image: https://bulma.io/assets/images/placeholders/256x256.png
       description: |
          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     - name: Sarah Lee-Cheesecake
       profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/128x128.png
+      image: https://bulma.io/assets/images/placeholders/256x256.png
 
 - tier_name: Others
   description: |-
@@ -18,15 +18,15 @@
   sponsors:
     - name: Dave McDave
       profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/128x128.png
+      image: https://bulma.io/assets/images/placeholders/256x256.png
       description: |
          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     - name: Sarah Lee-Cheesecake
       profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/128x128.png
+      image: https://bulma.io/assets/images/placeholders/256x256.png
     - name: John Smith
       profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/128x128.png
+      image: https://bulma.io/assets/images/placeholders/256x256.png
 
 - tier_name: Underlings
   size: small
@@ -35,23 +35,23 @@
   sponsors:
     - name: Dave McDave
       profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/128x128.png
+      image: https://bulma.io/assets/images/placeholders/256x256.png
     - name: Sarah Lee-Cheesecake
       profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/128x128.png
+      image: https://bulma.io/assets/images/placeholders/256x256.png
     - name: John Smith
       profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/128x128.png
+      image: https://bulma.io/assets/images/placeholders/256x256.png
     - name: Jane Smith
       profile: https://github.com
-      image: https://bulma.io/assets/images/placeholders/128x128.png
+      image: https://bulma.io/assets/images/placeholders/256x256.png
     - name: John Doe
       profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/128x128.png
+      image: https://bulma.io/assets/images/placeholders/256x256.png
     - name: Jane Doe
       profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/128x128.png
+      image: https://bulma.io/assets/images/placeholders/256x256.png
     - name: John Jones
-      image: https://bulma.io/assets/images/placeholders/128x128.png
+      image: https://bulma.io/assets/images/placeholders/256x256.png
     - name: Jane Jones
-      image: https://bulma.io/assets/images/placeholders/128x128.png
+      image: https://bulma.io/assets/images/placeholders/256x256.png
