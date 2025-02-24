@@ -5,7 +5,7 @@
             <div class="container">
                 <div class="columns is-multiline is-centered">
                     {% for callout in callouts.items %}
-                        <a href="{{ callout.link | relative_url }}" >
+                        <a href="{{ callout.link | relative_url }}" class="no-formatting" >
                         <div class="column is-4 has-text-centered">
                             {% if callout.icon %}
                                 <div class="icon callout-icon">
