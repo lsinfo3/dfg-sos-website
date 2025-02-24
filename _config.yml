@@ -52,6 +52,7 @@ scholar:
    style: ieee
    source: ./_bibliography
    bibliography: references.bib
+   bibliography_template: "<b>[{{key}}]</b>  {{reference}}"
 
 
 sass:
