@@ -49,10 +49,10 @@ exclude:
 livereload: true
 
 scholar:
-   style: ieee
-   source: ./_bibliography
+   style: /_bibliography/ieee.csl
+   source: /_bibliography
    bibliography: references.bib
-   bibliography_template: "<b>[{{key}}]</b>  {{reference}}"
+   # bibliography_template: "<b>[{{key}}]</b>  {{reference}}"
 
 
 sass:
