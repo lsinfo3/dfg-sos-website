@@ -25,6 +25,9 @@ $hero-darken: $dark !default;
 
 
 
-.no-formatting {
+.no-formatting-link {
   all: unset;
+}
+.no-formatting-link:hover {
+  cursor: pointer;
 }
