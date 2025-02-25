@@ -12,7 +12,7 @@
       profile: https://github.com/
       image: https://bulma.io/assets/images/placeholders/256x256.png
 
-- tier_name: Others
+- tier_name: Team 1
   description: |-
     Lorem Ipsum asdlf asdvae 2
   sponsors:
@@ -28,7 +28,7 @@
       profile: https://github.com/
       image: https://bulma.io/assets/images/placeholders/256x256.png
 
-- tier_name: Underlings
+- tier_name: Team 2
   size: small
   description: |-
     Lorem Ipsum asdlf asdvae 3
