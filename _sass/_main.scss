@@ -24,6 +24,9 @@ $hero-darken: $dark !default;
 }
 
 
+.sidebar .card {
+  max-width: 100% !important;
+}
 
 .no-formatting-link {
   all: unset;
