@@ -5,8 +5,8 @@ tagline: DFG FOR SOS
 email: tobias.hossfeld@uni-wuerzburg.de
 description: >
   The demo site for the DFG FOR SOS, made for Jekyll and GitHub pages websites
-baseurl: "/dfg-sos-draft01"
-url: "https://lsinfo3.github.io/dfg-sos-draft01/"
+baseurl: "/"
+url: "https://dfg-sos.de"
 permalink: pretty
 favicon: /favicon.png
 # gh_sponsor: chrisrhymes
