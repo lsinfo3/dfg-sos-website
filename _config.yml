@@ -16,8 +16,13 @@ hide_share_buttons: true
 #direction: one of <ltr, rtl, auto>, default: ltr
 force_theme: light
 
-paginate: 5
-paginate_path: "/blog/page:num"
+# paginate: 5
+# paginate_path: "/blog/page:num"
+pagination:
+   enabled: true
+   per_page: 5
+   sort_field: 'date'
+   sord_reverse: true
 
 # Disqus Comments
 disqus:
@@ -29,7 +34,7 @@ disqus:
 
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-feed
   - jekyll-seo-tag
   - kramdown-parser-gfm
@@ -101,5 +106,5 @@ social:
   #x: https://www.x.com/
   #youtube: https://www.youtube.com/
   linkedin: https://linkedin.com
-  
+
 
