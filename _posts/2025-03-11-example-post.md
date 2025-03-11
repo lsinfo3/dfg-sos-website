@@ -10,6 +10,8 @@ hero_height: is-small
 hero_darken: true
 tags: example
 hide_share_buttons: true
+news: true
+blog: false
 ---
 
 ## Example News Entry
