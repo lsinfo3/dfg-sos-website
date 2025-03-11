@@ -1,16 +1,16 @@
-- tier_name: Leader
+- tier_name: University of Würzburg
   size: large
   description: |-
-    Lorem Ipsum asdlf asdvae 1
+    JMU, founded in 1402, is one of the fifteen major research-intensive and leading medical universities in Germany
   sponsors:
-    - name: Dave McDave
-      profile: https://github.com/
+    - name: Stefan Geißler
+      profile: https://go.uniwue.de/stefan-geissler
       image: https://bulma.io/assets/images/placeholders/256x256.png
       description: |
          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     - name: Sarah Lee-Cheesecake
       profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/256x256.png
+      image: {{ site.baseurl }}/assets/img/geissler.jpg
 
 - tier_name: Team 1
   description: |-
