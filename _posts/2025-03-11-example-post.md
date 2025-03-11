@@ -15,4 +15,3 @@ hide_share_buttons: true
 ## Example News Entry
 
 Hey hello how are you :)
-````
