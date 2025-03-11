@@ -4,7 +4,7 @@ subtitle: This is the demo site for the DFG SOS project
 layout: page
 image: assets/img/DFG-RU-SOS-dark_trim_fill50percent.webp
 hero_image: assets/img/DFG-RU-SOS-dark_trim_fill50percent.webp
-hero_height: is-large
+hero_height: is-small
 hero_darken: true
 callouts: home_callouts
 show_sidebar: true
