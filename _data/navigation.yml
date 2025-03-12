@@ -7,6 +7,9 @@
   dropdown:
     - name: Earth Observation & Computational Ecology
       link: /eo-ce/
+      dropdown:
+        - name: EO1
+          link: /eo1/
     - name: Distributed Scientific Computing
       link: /sc/
 - name: News
