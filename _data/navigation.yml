@@ -3,12 +3,12 @@
 - name: Publications
   link: /publications/
 - name: Research Areas
-      link: /
-      dropdown:
-        - name: Earth Observation & Computational Ecology
-          link: /eo-ce/
-        - name: Distributed Scientific Computing
-          link: /sc/
+  link: /
+  dropdown:
+    - name: Earth Observation & Computational Ecology
+      link: /eo-ce/
+    - name: Distributed Scientific Computing
+      link: /sc/
 - name: News
   link: /news/
 - name: Blog
