@@ -15,6 +15,14 @@
       link: /ce1/
     - name: Distributed Scientific Computing
       link: /sc/
+    - name: ├── SE1
+      link: /SE1/
+    - name: ├── SE2
+      link: /SE2/
+    - name: ├──  CN1
+      link: /cn1/
+    - name: └── HPC1
+      link: /hpc1/
 - name: News
   link: /news/
 - name: Blog
