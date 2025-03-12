@@ -3,7 +3,7 @@
 - name: Publications
   link: /publications/
 - name: Research Areas
-      link: /#
+      link: /
       dropdown:
         - name: Earth Observation & Computational Ecology
           link: /eo-ce/
