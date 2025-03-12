@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: An example publications page
+subtitle: Cutting Edge International Research
 show_sidebar: false
 ---
 

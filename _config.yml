@@ -1,19 +1,15 @@
 # Site Settings
 lang: en
-title: DFG FOR SOS
-tagline: DFG FOR SOS
-email: tobias.hossfeld@uni-wuerzburg.de
+title: SOS
+tagline: Scientific Computing for Earth Observation and Sustainability
+email: samuel.kounev@uni-wuerzburg.de
 description: >
-  The demo site for the DFG FOR SOS, made for Jekyll and GitHub pages websites
+  DFG Research Unit - Scientific Computing for Earth Observation and Sustainability (SOS)
 baseurl: "/"
 url: "https://dfg-sos.de"
 permalink: pretty
 favicon: /favicon.png
-# gh_sponsor: chrisrhymes
 hide_share_buttons: true
-#theme_color: '#eeeeee'
-#fixed_navbar: top
-#direction: one of <ltr, rtl, auto>, default: ltr
 force_theme: light
 
 # paginate: 5
