@@ -7,24 +7,8 @@
       items:
         - name: Earth Observation & Computational Ecology
           link: /eo-ce/
-          items:
-            - name: EO1
-              link: /eo1/
-            - name: EO2
-              link: /eo2/
-            - name: CE1
-              link: /ce1/
         - name: Distributed Scientific Computing
           link: /sc/
-          items:
-            - name: SE1
-              link: /se1/
-            - name: SE2
-              link: /se2/
-            - name: CN1
-              link: /cn1/
-            - name: HPC1
-              link: /hpc1/
 - name: News
   link: /news/
 - name: Blog
