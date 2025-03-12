@@ -4,7 +4,7 @@
   link: /publications/
 - name: Research Areas
       link: /#
-      items:
+      dropdown:
         - name: Earth Observation & Computational Ecology
           link: /eo-ce/
         - name: Distributed Scientific Computing
