@@ -8,6 +8,7 @@ hero_height: is-small
 hero_darken: true
 callouts: home_callouts
 show_sidebar: true
+hits: true
 ---
 
 <!-- # Scientific Computing for Earth Observation and Sustainability -->
