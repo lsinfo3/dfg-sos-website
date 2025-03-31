@@ -3,16 +3,16 @@ height: is-small
 items:
 
   - title: Publications
-    subtitle: Recent publications
+    subtitle: 
     icon: fa-book-open-reader
     link: /publications/
 
   - title: News
-    subtitle: News from the project
+    subtitle: 
     icon: fa-newspaper
     link: /news/
 
   - title: Blog
-    subtitle: Blogposts about the project
+    subtitle:
     icon: fa-blog
     link: /blog/
