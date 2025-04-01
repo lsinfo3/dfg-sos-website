@@ -1,0 +1,5 @@
+Samuel Kounev is a Professor and Chair of Software Engineering at the University of Würzburg. 
+His research spans the areas of software architecture, systems benchmarking, cyber security, and applied data science in the domains of cloud computing, cyber-physical systems, and scientific workflows for Earth observation. 
+He has extensive experience in leading interdisciplinary research projects, for example, EU FP7 Marie Curie ITN “RELATE” in the area of cloud computing, or more recently the bidt project “ROOT: Real-time Earth Observation of Forest Dynamics and Biodiversity". 
+Samuel holds a PhD degree in computer science from TU Darmstadt (Germany). 
+Samuel is also Founder of the SPEC Research Group and several conferences in the field, including ACM/SPEC ICPE and IEEE ACSOS, as well as the main author of the first textbook on „Systems Benchmarking“ published by Springer in 2020 and 2025.

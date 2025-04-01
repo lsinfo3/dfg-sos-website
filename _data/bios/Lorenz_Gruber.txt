@@ -1,0 +1,6 @@
+PhD student at the Chair of Software Engineering at the University of
+Wuerzburg and part of the SE 1 sub-project.
+Research interests include scientific computing, software architecture
+and workflow engineering.
+Focused on the modelling of reusable workflow components in the Earth
+Observation domain. 

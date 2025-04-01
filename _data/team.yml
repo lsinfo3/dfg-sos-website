@@ -1,57 +1,136 @@
-- tier_name: University of Würzburg
+- tier_name: Spokespersons
   size: large
-  description: |-
-    JMU, founded in 1402, is one of the fifteen major research-intensive and leading medical universities in Germany
+  sponsors:
+    - name: Samuel Kounev
+      profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/samuel-kounev/
+      image: /img/people/samuel_kounev.jpg
+      description: |
+        - PI of the Subproject **SE2**  
+        - Professor and Chair of Software Engineering at the University of Würzburg.  
+
+        *Research Areas:*
+        * Software Architecture
+        * Systems Benchmarking
+        * Cyber Security,
+        * Applied Data Science
+
+        *Research Domains:*
+        * Cloud computing
+        * Cyber-physical systems
+        * Scientific workflows for Earth observation. 
+    - name: Claudia Künzer
+      profile: https://www.geographie.uni-wuerzburg.de/erdbeobachtung/team/prof-dr-claudia-kuenzer/
+      image: /img/people/placeholder.webp
+      description: |
+        - PI of the Subprojects **EO1** and **EO2**
+
+- tier_name: PIs
+  sponsors:
+    - name: Martin Wikelski
+      profile: https://www.mpg.de/307762/animal-behavior-wikelski
+      image: /img/people/martin_wikelski.jpg
+      description: |
+          - PI of the Subproject **CE1**.  
+          - Director of the Department of Migration of the Max Planck Institute of Animal Behavior
+          - Honorary Professor at the University of Konstanz
+    - name: Nikolas Herbst
+      profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/nikolas-herbst/
+      image: /img/people/placeholder.webp
+      description: |
+          - PI of the Subproject **SE1**.
+    - name: Tobias Hoßfeld
+      profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/hossfeld/
+      image: /img/people/placeholder.webp
+      description: |
+          - PI of the Subproject **CN1**.
+    - name: Dieter Kranzlmüller
+      profile: https://de.wikipedia.org/wiki/Dieter_Kranzlm%C3%BCller
+      image: /img/people/kranzlmueller.jpg
+      description: |
+          - PI of the Subproject **HPC1**.       
+
+- tier_name: Computer Science Researchers
+  size: small
   sponsors:
     - name: Stefan Geißler
-      profile: https://go.uniwue.de/stefan-geissler
+      profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/stefan-geissler/
       image: /img/people/geissler.jpg
       description: |
-         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
-    - name: Sarah Lee-Cheesecake
-      profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/256x256.png
-
-- tier_name: Team 1
-  description: |-
-    Lorem Ipsum asdlf asdvae 2
-  sponsors:
-    - name: Dave McDave
-      profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/256x256.png
+        - Co-Applicant **CN1**     
+    - name: Helmut Reiser
+      profile: https://reiser.research.lrz.de/
+      image: /img/people/reiser.jpg
       description: |
-         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
-    - name: Sarah Lee-Cheesecake
-      profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/256x256.png
-    - name: John Smith
-      profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/256x256.png
+        - Co-Applicant **HPC1**  
+    - name: Jan Schmidt
+      profile: https://www.mnm-team.org/~schmidtja/
+      image: /img/people/placeholder.webp
+      description: |
+        - Member **HPC1** 
+    - name: Viktoria Pauw
+      profile: https://de.linkedin.com/in/viktoria-pauw-495782261
+      image: /img/people/placeholder.webp
+      description: |
+        - Member **HPC1**  
+    - name: David Raunecker
+      profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/david-raunecker/
+      image: /img/people/placeholder.webp
+      description: |
+        - Member **CN1**
+    - name: Lorenz Gruber
+      profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/lorenz-gruber/
+      image: /img/people/lorenz_gruber.jpg
+      description: |
+        - PhD student at the Chair of Software Engineering at the University of
+        Wuerzburg 
+        - Member **SE1**
+    - name: David Linke
+      profile: https://de.linkedin.com/in/david-linke-180751297
+      image: /img/people/david_linke.png
+      description: |
+        - Master's student at the University of Wuerzburg
+        - Member **SE2**
 
-- tier_name: Team 2
+- tier_name: Earth Observation & Biodiversity Scientists
   size: small
-  description: |-
-    Lorem Ipsum asdlf asdvae 3
   sponsors:
-    - name: Dave McDave
-      profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/256x256.png
-    - name: Sarah Lee-Cheesecake
-      profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/256x256.png
-    - name: John Smith
-      profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/256x256.png
-    - name: Jane Smith
-      profile: https://github.com
-      image: https://bulma.io/assets/images/placeholders/256x256.png
-    - name: John Doe
-      profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/256x256.png
-    - name: Jane Doe
-      profile: https://github.com/
-      image: https://bulma.io/assets/images/placeholders/256x256.png
-    - name: John Jones
-      image: https://bulma.io/assets/images/placeholders/256x256.png
-    - name: Jane Jones
-      image: https://bulma.io/assets/images/placeholders/256x256.png
+    - name: Andreas Dietz
+      profile: https://de.linkedin.com/in/andreas-dietz-997387b1?original_referer=https%3A%2F%2Fwww.google.com%2F
+      image: /img/people/andreas_dietz.png
+      description: |
+        - Leader of the Group *Polar and Mountain Regions* at the German Aerospace Center
+        - Co-Applicant **EO1**
+    - name: Celia Baumhoer
+      profile: https://celiabaumhoer.github.io/
+      image: /img/people/celia_baumhoer.png
+      description: |
+        - Postdoctoral researcher at DLR's Earth Observation Center (EOC) 
+        - Member of the *Polar and Mountain Regions* Team. 
+        - Co-Applicant **EO2**
+    - name: Kamran Safi
+      profile: https://www.ab.mpg.de/person/98254/2736
+      image: /img/people/placeholder.webp
+      description: |
+        - Co-Applicant **CE1**
+    - name: Andrea Kölzsch
+      profile: https://www.ab.mpg.de/person/98278/2736
+      image: /img/people/placeholder.webp
+      description: |
+          - Co-Applicant **CE1**
+    - name: Anne Scharf
+      profile: https://www.ab.mpg.de/person/98255/2736
+      image: /img/people/placeholder.webp
+      description: |
+          - Co-Applicant **CE1**
+    - name: Helena Wehner
+      profile: https://de.linkedin.com/in/helena-wehner-2517a0346?original_referer=https%3A%2F%2Fwww.google.com%2F
+      image: /img/people/helena_wehner.jpg
+      description: |
+          - PhD Student at the University of Wuerzburg and German Aerospace Center
+          - Member **EO1**
+    - name: Sarah Leibrock
+      profile: https://de.linkedin.com/in/sarahleibrock?original_referer=https%3A%2F%2Fwww.google.com%2F
+      image: /img/people/placeholder.webp
+      description: |
+          - PhD Student at the University of Wuerzburg and German Aerospace Center
+          - Member **EO2**
