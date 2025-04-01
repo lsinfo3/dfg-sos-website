@@ -1,5 +1,11 @@
 {% if page.sponsors %}
     {% assign tiers=site.data.[page.sponsors] %}
+    <style>
+        ul, .team-member-description ul{
+            list-style-type: disc !important; 
+            padding-left: 20px !important; 
+        }
+    </style>
     <div class="columns is-multiline">
         {% for tier in tiers %}
             <div class="column is-12">
@@ -18,6 +24,7 @@
                 <div class="columns is-multiline is-centered">
                     {% for sponsor in tier.sponsors %}
                         <div class="column {% if tier.size == 'large' %} is-4-desktop is-6-tablet {% else %} is-3-desktop is-4-tablet {% endif %} is-centered">
+                            <a href="{{sponsor.profile}}" target="_blank">
                             <div class="card">
                                 <div class="card-image has-text-centered">
                                     <figure class="image is-256x256 is-inline-block">
@@ -28,12 +35,12 @@
                                     <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
                                         {{ sponsor.name }}
                                     </p>
-                                    <p>
-                                        {{ sponsor.description }}
+                                    <p class="team-member-description">
+                                        {{ sponsor.description | markdownify}}
                                     </p>
                                 </div>
                             </div>
-
+                        </a>
                             <!-- <figure class="image is-128x128"> -->
                             <!--     <img class="is-rounded" src="{{ sponsor.image }}" /> -->
                             <!-- </figure> -->
