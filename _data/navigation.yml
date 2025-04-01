@@ -2,7 +2,7 @@
   link: /team/
 - name: Publications
   link: /publications/
-- name: Research Areas
+- name: Research Areas & Sub-Projects
   link: /
   dropdown:
     - name: Earth Observation & Computational Ecology
@@ -13,7 +13,7 @@
       link: /eo2/
     - name: └─ CE1
       link: /ce1/
-    - name: Distributed Scientific Computing
+    - name: Serverless Scientific Computing
       link: /sc/
     - name: ├─ SE1
       link: /se1/
