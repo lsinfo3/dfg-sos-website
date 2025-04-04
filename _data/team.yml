@@ -3,7 +3,7 @@
   sponsors:
     - name: Samuel Kounev
       profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/samuel-kounev/
-      image: /img/people/samuel_kounev.png
+      image: /img/people/samuel_kounev.jpg
       description: |
         - PI of the Subproject **SE2**  
         - Professor and Chair of Software Engineering at the University of Würzburg.  
@@ -20,7 +20,7 @@
         * Scientific workflows for Earth observation. 
     - name: Claudia Künzer
       profile: https://www.geographie.uni-wuerzburg.de/erdbeobachtung/team/prof-dr-claudia-kuenzer/
-      image: /img/people/claudia_kuenzer.png
+      image: /img/people/claudia_kuenzer.jpg
       description: |
         - PI of the Subprojects **EO1** and **EO2**
 
@@ -28,24 +28,24 @@
   sponsors:
     - name: Martin Wikelski
       profile: https://www.mpg.de/307762/animal-behavior-wikelski
-      image: /img/people/martin_wikelski.png
+      image: /img/people/martin_wikelski.jpg
       description: |
           - PI of the Subproject **CE1**.  
           - Director of the Department of Migration of the Max Planck Institute of Animal Behavior
           - Honorary Professor at the University of Konstanz
     - name: Nikolas Herbst
       profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/nikolas-herbst/
-      image: /img/people/nikolas_herbst.png
+      image: /img/people/nikolas_herbst.jpg
       description: |
           - PI of the Subproject **SE1**.
     - name: Tobias Hoßfeld
       profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/hossfeld/
-      image: /img/people/tobias_hossfeld.png
+      image: /img/people/tobias_hossfeld.jpg
       description: |
           - PI of the Subproject **CN1**.
     - name: Dieter Kranzlmüller
       profile: https://de.wikipedia.org/wiki/Dieter_Kranzlm%C3%BCller
-      image: /img/people/kranzlmueller.png
+      image: /img/people/kranzlmueller.jpg
       description: |
           - PI of the Subproject **HPC1**.       
 
@@ -54,39 +54,39 @@
   sponsors:
     - name: Stefan Geißler
       profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/stefan-geissler/
-      image: /img/people/geissler.png
+      image: /img/people/geissler.jpg
       description: |
         - Co-Applicant **CN1**     
     - name: Helmut Reiser
       profile: https://reiser.research.lrz.de/
-      image: /img/people/reiser.png
+      image: /img/people/reiser.jpg
       description: |
         - Co-Applicant **HPC1**  
     - name: Jan Schmidt
       profile: https://www.mnm-team.org/~schmidtja/
-      image: /img/people/jan_schmidt.png
+      image: /img/people/jan_schmidt.jpg
       description: |
         - Member **HPC1** 
     - name: Viktoria Pauw
       profile: https://de.linkedin.com/in/viktoria-pauw-495782261
-      image: /img/people/viktoria_pauw.png
+      image: /img/people/viktoria_pauw.jpeg
       description: |
         - Member **HPC1**  
     - name: David Raunecker
       profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/david-raunecker/
-      image: /img/people/david_raunecker2.png
+      image: /img/people/david_raunecker2.jpg
       description: |
         - Member **CN1**
     - name: Lorenz Gruber
       profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/lorenz-gruber/
-      image: /img/people/lorenz_gruber.png
+      image: /img/people/lorenz_gruber.jpg
       description: |
         - PhD student at the Chair of Software Engineering at the University of
         Wuerzburg 
         - Member **SE1**
     - name: David Linke
       profile: https://de.linkedin.com/in/david-linke-180751297
-      image: /img/people/david_linke.png
+      image: /img/people/david_linke.jpeg
       description: |
         - Master's student at the University of Wuerzburg
         - Member **SE2**
@@ -96,41 +96,41 @@
   sponsors:
     - name: Andreas Dietz
       profile: https://de.linkedin.com/in/andreas-dietz-997387b1?original_referer=https%3A%2F%2Fwww.google.com%2F
-      image: /img/people/andreas_dietz.png
+      image: /img/people/andreas_dietz.jpeg
       description: |
         - Leader of the Group *Polar and Mountain Regions* at the German Aerospace Center
         - Co-Applicant **EO1**
     - name: Celia Baumhoer
       profile: https://celiabaumhoer.github.io/
-      image: /img/people/celia_baumhoer.png
+      image: /img/people/celia_baumhoer.jpeg
       description: |
         - Postdoctoral researcher at DLR's Earth Observation Center (EOC) 
         - Member of the *Polar and Mountain Regions* Team. 
         - Co-Applicant **EO2**
     - name: Kamran Safi
       profile: https://www.ab.mpg.de/person/98254/2736
-      image: /img/people/kamran_safi.png
+      image: /img/people/kamran_safi.jpg
       description: |
         - Co-Applicant **CE1**
     - name: Andrea Kölzsch
       profile: https://www.ab.mpg.de/person/98278/2736
-      image: /img/people/placeholder.webp
+      image: /img/people/andrea_koelzsch.jpg
       description: |
           - Co-Applicant **CE1**
     - name: Anne Scharf
       profile: https://www.ab.mpg.de/person/98255/2736
-      image: /img/people/anne_scharf.png
+      image: /img/people/Scharf_Anne.jpg
       description: |
           - Co-Applicant **CE1**
     - name: Helena Wehner
       profile: https://de.linkedin.com/in/helena-wehner-2517a0346?original_referer=https%3A%2F%2Fwww.google.com%2F
-      image: /img/people/helena_wehner.png
+      image: /img/people/helena_wehner.jpg
       description: |
           - PhD Student at the University of Wuerzburg and German Aerospace Center
           - Member **EO1**
     - name: Sarah Leibrock
       profile: https://de.linkedin.com/in/sarahleibrock?original_referer=https%3A%2F%2Fwww.google.com%2F
-      image: /img/people/sarah_leibrock.png
+      image: /img/people/sarah_leibrock.jpeg
       description: |
           - PhD Student at the University of Wuerzburg and German Aerospace Center
           - Member **EO2**
