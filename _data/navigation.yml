@@ -3,26 +3,24 @@
 - name: Publications
   link: /publications/
 - name: Research Areas & Sub-Projects
-  link: /
+  link: /research
   dropdown:
     - name: Earth Observation & Computational Ecology
-      link: /eo-ce/
     - name: ├─ EO1
-      link: /eo1/
+      link: /research/eo1
     - name: ├─ EO2
-      link: /eo2/
+      link: /research/eo2
     - name: └─ CE1
-      link: /ce1/
+      link: /research/ce1
     - name: Serverless Scientific Computing
-      link: /sc/
     - name: ├─ SE1
-      link: /se1/
+      link: /research/se1
     - name: ├─ SE2
-      link: /se2/
+      link: /research/se2
     - name: ├─  CN1
-      link: /cn1/
+      link: /research/cn1
     - name: └─ HPC1
-      link: /hpc1/
+      link: /research/hpc1
 - name: News
   link: /news/
 - name: Blog

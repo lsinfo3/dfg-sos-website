@@ -36,12 +36,18 @@
                                 </a>
                                 <div class="navbar-dropdown">
                                     {% for subitem in item.dropdown %}
-                                        <a
-                                            href="{{ subitem.link | relative_url }}"
-                                            class="navbar-item {% if subitem.link == page.url %}is-active{% endif %}"
-                                        >
-                                            {{- subitem.name -}}
-                                        </a>
+                                        {% if subitem.link %}
+                                            <a
+                                                href="{{ subitem.link | relative_url }}"
+                                                class="navbar-item {% if subitem.link == page.url %}is-active{% endif %}"
+                                            >
+                                                {{- subitem.name -}}
+                                            </a>
+                                        {% else %}
+                                            <div class="navbar-item is-static has-text-weight-semibold is-unselectable">
+                                                {{- subitem.name -}}
+                                            </div>
+                                        {% endif %}
                                     {% endfor %}
                                 </div>
                             </div>
