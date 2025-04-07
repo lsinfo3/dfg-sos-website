@@ -7,7 +7,6 @@
       description: |
         - Professor and Chair of Software Engineering, JMU Würzburg
         - PI of the Project [**SE2**](/research/se2/) and **RU Coordination**
-        - Personal [page](https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/samuel-kounev/) 
     - name: Claudia Künzer
       profile: https://www.geographie.uni-wuerzburg.de/erdbeobachtung/team/prof-dr-claudia-kuenzer/
       image: /img/people/claudia_kuenzer.jpg
@@ -15,7 +14,6 @@
         - Head of Department Land Surface Dynamics (DLR)
         - Professor for Remote Sensing, JMU Würzburg
         - PI of the Projects [**EO1**](/research/eo1/) and [**EO2**](/research/eo2/)
-        - [Personal page](https://www.geographie.uni-wuerzburg.de/erdbeobachtung/team/prof-dr-claudia-kuenzer/) 
 - tier_name: PIs
   sponsors:
     - name: Martin Wikelski
@@ -24,21 +22,18 @@
       description: |
           - PI of the Subproject **CE1**  
           - Director at the Max Planck Institute of Animal Behavior
-          - Click for more info...
     - name: Nikolas Herbst
       profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/nikolas-herbst/
       image: /img/people/nikolas_herbst.jpg
       description: |
           - PI of the Subproject **SE1**
           - Post-Doc at the Chair of Software-Engineering, JMU Würzburg
-          - Click for more info...
     - name: Tobias Hoßfeld
       profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/hossfeld/
       image: /img/people/tobias_hossfeld.jpg
       description: |
           - PI of the Subproject **CN1**
           - Professor and Chair of Communication Networks, JMU Würzburg
-          - Click for more info...
     - name: Dieter Kranzlmüller
       profile: https://de.wikipedia.org/wiki/Dieter_Kranzlm%C3%BCller
       image: /img/people/kranzlmueller.jpg
@@ -46,7 +41,6 @@
           - PI of the Subproject **HPC1**
           - Chair of the Board of Directors of the Leibniz Supercomputing Centre (LRZ)
           - LMU
-          - Click for more info...
 - tier_name: Computer Science Researchers
   size: small
   sponsors:
