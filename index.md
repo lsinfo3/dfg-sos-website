@@ -36,7 +36,7 @@ We believe these goals can only be achieved through collaboration between **comp
 - **(a)** Investigating the impact of **land surface dynamics** on the movement patterns of **migrating animals** as a basis for predicting future space usage and species composition.  
 - **(b)** Examining the effects of **climate change** on **snow cover and melting**.  
 
-![SOS Illustration](img/sos/sos-illustration.svg)
+![SOS Illustration](img/sos/sos-illustration.png)
 
 ## Expected Impact  
 
