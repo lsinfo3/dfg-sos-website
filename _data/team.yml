@@ -6,7 +6,7 @@
       image: /img/people/samuel_kounev.jpg
       description: |
         - PI of the Project **SE2** and **RU Coordination**  
-        - Professor and Chair of Software Engineering at the JMU Würzburg
+        - Professor and Chair of Software Engineering, JMU Würzburg
         - Click for more info...
     - name: Claudia Künzer
       profile: https://www.geographie.uni-wuerzburg.de/erdbeobachtung/team/prof-dr-claudia-kuenzer/
@@ -14,7 +14,7 @@
       description: |
         - PI of the Projects **EO1** and **EO2**
         - Head of Department Land Surface Dynamics (DLR)
-        _ Professor for Remote Sensing at the JMU Würzburg
+        - Professor for Remote Sensing, JMU Würzburg
         - Click for more info...
 - tier_name: PIs
   sponsors:
@@ -22,25 +22,31 @@
       profile: https://www.mpg.de/307762/animal-behavior-wikelski
       image: /img/people/martin_wikelski.jpg
       description: |
-          - PI of the Subproject **CE1**.  
-          - Director of the Department of Migration of the Max Planck Institute of Animal Behavior
-          - Honorary Professor at the University of Konstanz
+          - PI of the Subproject **CE1**  
+          - Director at the Max Planck Institute of Animal Behavior
+          - Click for more info...
     - name: Nikolas Herbst
       profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/nikolas-herbst/
       image: /img/people/nikolas_herbst.jpg
       description: |
-          - PI of the Subproject **SE1**.
+          - PI of the Subproject **SE1**
+          - Post-Doc at the Chair of Software-Engineering, JMU Würzburg
+          - Click for more info...
     - name: Tobias Hoßfeld
       profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/hossfeld/
       image: /img/people/tobias_hossfeld.jpg
       description: |
-          - PI of the Subproject **CN1**.
+          - PI of the Subproject **CN1**
+          - Professor and Chair of Communication Networks, JMU Würzburg
+          - Click for more info...
     - name: Dieter Kranzlmüller
       profile: https://de.wikipedia.org/wiki/Dieter_Kranzlm%C3%BCller
       image: /img/people/kranzlmueller.jpg
       description: |
-          - PI of the Subproject **HPC1**.       
-
+          - PI of the Subproject **HPC1**
+          - Chair of the Board of Directors of the Leibniz Supercomputing Centre (LRZ)
+          - LMU
+          - Click for more info...
 - tier_name: Computer Science Researchers
   size: small
   sponsors:
