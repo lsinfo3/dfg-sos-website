@@ -1,17 +1,22 @@
 ---
 layout: post
-author: Stefan Geißler
-title: An exemplary blog article
-date: 2025-01-12
-#hero_image: /assets/img/DFG-RU-SOS-dark_trim_fill50percent.webp
-image: /assets/img/DFG-RU-SOS-dark_trim_fill50percent.webp
+author: Celia Baumhoer
+title: "Automated crevasse mapping for Alpine glaciers"
+subtitle: A multitask deep neural network approach
+date: 2025-04-01
+image: /img/posts/2025-04-01-alpine-glaciers.jpg
 hero_height: is-small
 hero_darken: true
 tags: example blog
 hide_share_buttons: true
 category: blog
 ---
+How can we automatically map glacier crevasses? Our new manuscript explores how Alpine crevasses can be mapped from high-resolution data.
 
-This is how an exemplary blog article would look like. The first paragraph will be used as a summary on the fronpage and the blog overview. All other content will be contained in the full view of the article.
+For the first time, we provide new crevasse datasets for Ötztal, Stubai, Großglockner, Ortler and Piz Palü that can be integrated into hiking maps and glacier models.
 
-Our blog articles are intended to highlight currently ongoing research, may include plots, figures, images and are designed to provide insights into the scientific work we do in the project.
+This study wouldn’t have been possible without the incredible support of [Deutscher Alpenverein e.V.](https://www.linkedin.com/company/deutscheralpenverein/) and [Österreichischer Alpenverein](https://www.linkedin.com/company/alpenverein-at/).
+
+Read the full story here: [https://lnkd.in/dv8rsQz7](https://www.sciencedirect.com/science/article/pii/S1569843225001426)
+
+![](/img/posts/2025-04-01-alpine-glaciers.jpg)
