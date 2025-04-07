@@ -39,6 +39,11 @@
                                     </p>
                                     <p class="team-member-description">
                                         {{ sponsor.description | markdownify}}
+                                        {% if sponsor.profile %}
+                                        <ul>
+                                            <li><a href="{{sponsor.profile}}" target="_blank">Personal page</a></li>
+                                        </ul>
+                                        {% endif %}
                                     </p>
                                 </div>
                             </div>
