@@ -5,25 +5,17 @@
       profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/samuel-kounev/
       image: /img/people/samuel_kounev.jpg
       description: |
-        - PI of the Subproject **SE2**  
-        - Professor and Chair of Software Engineering at the University of Würzburg.  
-
-        *Research Areas:*
-        * Software Architecture
-        * Systems Benchmarking
-        * Cyber Security,
-        * Applied Data Science
-
-        *Research Domains:*
-        * Cloud computing
-        * Cyber-physical systems
-        * Scientific workflows for Earth observation. 
+        - PI of the Project **SE2** and **RU Coordination**  
+        - Professor and Chair of Software Engineering at the JMU Würzburg
+        - Click for more info...
     - name: Claudia Künzer
       profile: https://www.geographie.uni-wuerzburg.de/erdbeobachtung/team/prof-dr-claudia-kuenzer/
       image: /img/people/claudia_kuenzer.jpg
       description: |
-        - PI of the Subprojects **EO1** and **EO2**
-
+        - PI of the Projects **EO1** and **EO2**
+        - Head of Department Land Surface Dynamics (DLR)
+        _ Professor for Remote Sensing at the JMU Würzburg
+        - Click for more info...
 - tier_name: PIs
   sponsors:
     - name: Martin Wikelski
