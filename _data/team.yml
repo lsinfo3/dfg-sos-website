@@ -2,14 +2,14 @@
   size: large
   sponsors:
     - name: Samuel Kounev
-      profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/samuel-kounev/
+      profile:
       image: /img/people/samuel_kounev.jpg
       description: |
         - Professor and Chair of Software Engineering, JMU Würzburg
         - PI of the Project [**SE2**](/research/se2/) and [**RU Coordination**]()  
         - [Personal page](https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/samuel-kounev/) 
     - name: Claudia Künzer
-      profile: https://www.geographie.uni-wuerzburg.de/erdbeobachtung/team/prof-dr-claudia-kuenzer/
+      profile:
       image: /img/people/claudia_kuenzer.jpg
       description: |
         - Head of Department Land Surface Dynamics (DLR)
