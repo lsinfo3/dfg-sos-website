@@ -7,5 +7,5 @@ show_sidebar: false
 
 
 
-{% bibliography %}
+{% bibliography --template scholartemplate %}
 
