@@ -5,17 +5,17 @@
       profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/samuel-kounev/
       image: /img/people/samuel_kounev.jpg
       description: |
-        - PI of the Project **SE2** and **RU Coordination**  
         - Professor and Chair of Software Engineering, JMU Würzburg
-        - Click for more info...
+        - PI of the Project [**SE2**][/research/se2/] and [**RU Coordination**][]  
+        - [Personal page][https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/samuel-kounev/] 
     - name: Claudia Künzer
       profile: https://www.geographie.uni-wuerzburg.de/erdbeobachtung/team/prof-dr-claudia-kuenzer/
       image: /img/people/claudia_kuenzer.jpg
       description: |
-        - PI of the Projects **EO1** and **EO2**
         - Head of Department Land Surface Dynamics (DLR)
         - Professor for Remote Sensing, JMU Würzburg
-        - Click for more info...
+        - PI of the Projects [**EO1**][] and [**EO2**][]
+        - [Personal page][https://www.geographie.uni-wuerzburg.de/erdbeobachtung/team/prof-dr-claudia-kuenzer/] 
 - tier_name: PIs
   sponsors:
     - name: Martin Wikelski
