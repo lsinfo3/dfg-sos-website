@@ -8,11 +8,14 @@ $primary: #263f9f;
 
 // Styles links on the publications page
 .minilinks {
-    font-size: 0.625em;
+    font-size: 0.925em;
 
     a {
-        color: #eee;
-        background-color: $primary;
+        color: $primary;
+        // background-color: $primary;
+        font-weight: 900;
+        text-decoration: underline;
+        text-underline-offset: 0.11rem;
     }
 }
 
