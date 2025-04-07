@@ -24,13 +24,15 @@
                 <div class="columns is-multiline is-centered">
                     {% for sponsor in tier.sponsors %}
                         <div class="column {% if tier.size == 'large' %} is-4-desktop is-6-tablet {% else %} is-3-desktop is-4-tablet {% endif %} is-centered">
-                            <a href="{{sponsor.profile}}" target="_blank">
+                            
                             <div class="card">
-                                <div class="card-image has-text-centered">
-                                    <figure class="image is-256x256 is-inline-block">
-                                        <img class="is-rounded" src="{{ sponsor.image }}" />
-                                    </figure>
-                                </div>
+                                <a href="{{sponsor.profile}}" target="_blank"></a>
+                                    <div class="card-image has-text-centered">
+                                        <figure class="image is-256x256 is-inline-block">
+                                            <img class="is-rounded" src="{{ sponsor.image }}" />
+                                        </figure>
+                                    </div>
+                                </a>
                                 <div class="card-content">
                                     <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
                                         {{ sponsor.name }}
@@ -40,7 +42,7 @@
                                     </p>
                                 </div>
                             </div>
-                        </a>
+                        
                             <!-- <figure class="image is-128x128"> -->
                             <!--     <img class="is-rounded" src="{{ sponsor.image }}" /> -->
                             <!-- </figure> -->
