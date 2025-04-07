@@ -20,7 +20,7 @@
   sponsors:
     - name: Martin Wikelski
       profile: https://www.mpg.de/307762/animal-behavior-wikelski
-      image: /img/people/martin_wikelski.jpg
+      image: /img/people/martin_wikelski.jpeg
       description: |
           - PI of the Subproject **CE1**  
           - Director at the Max Planck Institute of Animal Behavior
@@ -67,7 +67,7 @@
         - Member **HPC1** 
     - name: Viktoria Pauw
       profile: https://de.linkedin.com/in/viktoria-pauw-495782261
-      image: /img/people/viktoria_pauw.jpeg
+      image: /img/people/viktoria_pauw.jpg
       description: |
         - Member **HPC1**  
     - name: David Raunecker
