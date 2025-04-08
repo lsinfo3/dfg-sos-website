@@ -20,8 +20,7 @@ This leads to **limited reusability** of workflow implementations and **poor rep
 
 ## Research Goals  
 
-The main goal of this research group is to develop a **framework** consisting of a set of methods, models, and architectures that serve as the foundation for **"serverless" scientific computing and engineering**. In **serverless computing**, computing, storage, and communication resources are abstracted.  
-[_config.yml](_config.yml)
+The main goal of this research group is to develop a **framework** consisting of a set of methods, models, and architectures that serve as the foundation for **"serverless" scientific computing and engineering**. In **serverless computing**, computing, storage, and communication resources are abstracted.
 ### Specific Objectives  
 
 1. **Automation, sharing, and reuse** of EO workflows across projects, teams, application domains, and organizations.  
