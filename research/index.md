@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Areas & Sub-Projects
+title: Research Areas & Subprojects
 subtitle: 
 ---
 # Summary
@@ -32,19 +32,19 @@ Our vision combines elements from the paradigm of component-based software engin
 We believe that these goals can only be addressed in close collaboration between computer scientists and geo-scientists in an interdisciplinary research setting, while working on real and challenging topics from the domain of EO
 and sustainability. 
 
-# Sub-Projects
+# Subprojects
 ### Earth Observation & Computational Ecology
 Three of the research projects in the proposed Research Unit will be led by geoscientists and will
 include as part of their goals the following domain-specific research objectives:
-- [EO1](/research/eo1): Causalities between land surface dynamics and animal movement pathways—Develop reusable workflow
+- [Subproject EO1](/research/eo1): Causalities between land surface dynamics and animal movement pathways—Develop reusable workflow
 components to support the processing, combination, and interpolation of multiple EO/environmental datasets
 from various sources, enabling the analysis of animal migration/pathways data in combination with environmental
 information layers, in order to understand the impact of land surface dynamics on animal behavior.
-- [EO2](/research/eo2): Impact of climate change on snow cover and snowmelt dynamics—Develop reusable workflow components
+- [Subproject EO2](/research/eo2): Impact of climate change on snow cover and snowmelt dynamics—Develop reusable workflow components
 to support evaluating the impact of climate change on snow cover extent, snowmelt timing, and permafrost lake
 dynamics in the polar and cold regions as well as predicting which future developments have to be expected
 based on trend analyses of the obtained results.
-- [CE1](/research/ce1): Effect of global change on biodiversity and its distribution—Provide new insights on how animals choose
+- [Subproject CE1](/research/ce1): Effect of global change on biodiversity and its distribution—Provide new insights on how animals choose
 their habitats and resources in relation to snow and freshwater in the Arctic, a system most sensitive to climate
 change, by developing reusable workflow components that predict changes in space use and species composition
 based on predictions of snow cover and water availability.
@@ -60,12 +60,12 @@ as for the iterative development and evaluation of the envisioned methods, techn
 ### Serverless Scientific Computing
 In parallel to the three geoscientist-driven projects, four interlinked projects led by computer scientists will focus
 on the design of the core components of the SOS framework targeting the following specific objectives:
-- [SE1](/research/se1): Component-based EO workflow engineering methodology including novel modeling abstractions for reusable workflow specification, design, and implementation, as well as tailored development processes supporting
+- [Subproject SE1](/research/se1): Component-based EO workflow engineering methodology including novel modeling abstractions for reusable workflow specification, design, and implementation, as well as tailored development processes supporting
 application-level automation, sharing, reuse, extensibility, and workflow evolution within and across multiple research projects, teams, and application domains.
-- [SE2](/research/se2): Self-aware EO workflow orchestration providing efficient workflow scheduling, predictable resource con￾sumption and time-to-result, reproducible workflow execution, resource usage transparency and accountability,
+- [Subproject SE2](/research/se2): Self-aware EO workflow orchestration providing efficient workflow scheduling, predictable resource con￾sumption and time-to-result, reproducible workflow execution, resource usage transparency and accountability,
 as well as fault tolerance.
-- [CN1](/research/cn1): Scalable and energy-efficient network and infrastructure resource management of compute, storage, and
+- [Subproject CN1](/research/cn1): Scalable and energy-efficient network and infrastructure resource management of compute, storage, and
 network resources, tackling the challenges of large-scale data volumes, I/O and compute-intensive workloads,
 as well as distributed and heterogeneous data sources and infrastructure resources.
-- [HPC1](/research/hpc1): Integration of heterogeneous cloud and HPC resources for security-aware high-volume EO data pro￾cessing, including mechanisms to integrate heterogeneous compute, memory, and storage systems into the
+- [Subproject HPC1](/research/hpc1): Integration of heterogeneous cloud and HPC resources for security-aware high-volume EO data pro￾cessing, including mechanisms to integrate heterogeneous compute, memory, and storage systems into the
 serverless framework while enabling user access and job deployment among separated security zones.
