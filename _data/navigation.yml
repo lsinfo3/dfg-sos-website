@@ -2,24 +2,24 @@
   link: /team/
 - name: Publications
   link: /publications/
-- name: Research Areas & Sub-Projects
+- name: Research Areas & Subprojects
   link: /research
   dropdown:
     - name: Earth Observation & Computational Ecology
-    - name: ├─ EO1
+    - name: "├─ **EO1**: Land Surface Dynamics"
       link: /research/eo1
-    - name: ├─ EO2
+    - name: "├─ **EO2**: Snow Cover"
       link: /research/eo2
-    - name: └─ CE1
+    - name: "└─ **CE1**: Biodiversity"
       link: /research/ce1
     - name: Serverless Scientific Computing
-    - name: ├─ SE1
+    - name: "├─ **SE1**: Workflow Engineering"
       link: /research/se1
-    - name: ├─ SE2
+    - name: "├─ **SE2**: Workflow Orchestration"
       link: /research/se2
-    - name: ├─  CN1
+    - name: "├─  **CN1**: Networking"
       link: /research/cn1
-    - name: └─ HPC1
+    - name: "└─ **HPC1**: Compute"
       link: /research/hpc1
 - name: News
   link: /news/

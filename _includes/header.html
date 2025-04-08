@@ -41,7 +41,7 @@
                                                 href="{{ subitem.link | relative_url }}"
                                                 class="navbar-item {% if subitem.link == page.url %}is-active{% endif %}"
                                             >
-                                                {{- subitem.name -}}
+                                                {{- subitem.name | markdownify -}}
                                             </a>
                                         {% else %}
                                             <div class="navbar-item is-static has-text-weight-semibold is-unselectable">
