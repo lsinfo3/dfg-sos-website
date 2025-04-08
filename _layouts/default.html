@@ -48,12 +48,12 @@
                     </div>
                     {% if site.posts and page.show_sidebar %}
                         <div class="column is-4-desktop is-4-tablet">
-                            {% if page.show_logo_sidebar %}
-                            <div class="mb-4 has-text-centered">
-                                <img src="/assets/img/DFG-RU-SOS-dark_trim.webp"
-                                     alt="Sidebar Logo"
-                                     style="width: auto; max-height: 200px; margin-bottom: 1rem;">
-                            </div>
+                            {% if page.show_dfg_sidebar %}
+                                <a href="https://gepris.dfg.de/gepris/projekt/522760169" target="_blank">
+                                <img src="/img/logos/dfg.jpg"
+                                     alt="Funded by DFG"
+                                     style="width: auto; max-height: 100px;">
+                                </a>
                             {% endif %}
                             {% include latest-posts.html %}
                         </div>
