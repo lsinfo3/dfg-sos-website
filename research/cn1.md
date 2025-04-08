@@ -18,7 +18,7 @@ While a large number of studies exist in the multitude of intersecting topics th
 ## Goals & Objectives
 
 1. Development of a scalable control plane overlay
-2. Solution to the task placement problem, see also [SE1](se1.md)
+2. Solution to the task placement problem, see also [SE1](/research/se1)
 3. Development of monitoring mechanisms to monitor network conditions and resources
 4. Development and evaluation of an adaptive data-plane
 5. Derivation and evaluation of performance improvement methods
