@@ -1,17 +1,21 @@
 {% if page.callouts %}
     <style>
         .callout-image {
-            max-height: 100px;
+            max-height: 60px;
             width: auto;
+        }
+        .columns {
+            display: flex;
+            flex-wrap: wrap;  /* Allow the columns to wrap on smaller screens */
         }
     </style>
     {% assign callouts=site.data.[page.callouts] %}
     <section class="hero {% if callouts.height %} {{ callouts.height }} {% else %} is-medium {% endif %} {{ callouts.style }}">
         <div class="hero-body">
             <div class="container">
-                <div class="columns is-multiline is-centered">
+                <div class="columns is-multiline is-centered is-vcentered">
                     {% for callout in callouts.items %}
-                        <div class="column is-one-quarter has-text-centered">
+                        <div class="column is-one-fifth-tablet is-one-fifth-desktop is-one-third-mobile has-text-centered">
                             <a href="{{ callout.link | relative_url }}" class="no-formatting-link" >
                                 {% if callout.image %}
                                     <img src="{{ callout.image }}" alt="{{callout.description}}" class="callout-image">

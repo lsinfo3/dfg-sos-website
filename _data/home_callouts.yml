@@ -1,19 +1,22 @@
 style: is-light
 height: is-small
 items:
+  - description: SOS
+    image: /img/sos/sos-logo-light.png
+    link: /
+
   - description: University of Wuerzburg
     image: /img/logos/uniwue.png
     link: https://www.uni-wuerzburg.de/en/
 
   - description: German Aerospace Center
     image: /img/logos/dlr.png
-    link: https://www.dlr.de/en
+    link: https://www.dlr.de/en/eoc
 
   - description: Max Planck Gesellschaft
     image: /img/logos/mpg.png
-    link: https://www.mpg.de/en
+    link: https://www.ab.mpg.de/
 
   - description: Leibnitz Supercomputing Centre
     image: /img/logos/lrz.png
     link: https://www.lrz.de/en/
-
