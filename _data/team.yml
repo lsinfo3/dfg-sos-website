@@ -20,27 +20,27 @@
       profile: https://www.mpg.de/307762/animal-behavior-wikelski
       image: /img/people/martin_wikelski.jpeg
       description: |
-          - PI of the Subproject **CE1**  
           - Director at the Max Planck Institute of Animal Behavior
+          - PI of the Subproject [**CE1**](/research/ce1)  
     - name: Nikolas Herbst
       profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/nikolas-herbst/
       image: /img/people/nikolas_herbst.jpg
       description: |
-          - PI of the Subproject **SE1**
           - Post-Doc at the Chair of Software-Engineering, JMU Würzburg
+          - PI of the Subproject [**SE1**](/research/se1)
     - name: Tobias Hoßfeld
       profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/hossfeld/
       image: /img/people/tobias_hossfeld.jpg
       description: |
-          - PI of the Subproject **CN1**
           - Professor and Chair of Communication Networks, JMU Würzburg
+          - PI of the Subproject [**CN1**](/research/cn1)
     - name: Dieter Kranzlmüller
       profile: https://de.wikipedia.org/wiki/Dieter_Kranzlm%C3%BCller
       image: /img/people/kranzlmueller.jpg
       description: |
-          - PI of the Subproject **HPC1**
           - Chair of the Board of Directors of the Leibniz Supercomputing Centre (LRZ)
-          - LMU
+          - Professor at the LMU, Munich heading the Munich Network Management Team (MNM-Team)
+          - PI of the Subproject [**HPC1**](/research/hpc1)
 - tier_name: Computer Science Researchers
   size: small
   sponsors:
@@ -48,12 +48,16 @@
       profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/stefan-geissler/
       image: /img/people/geissler.jpg
       description: |
-        - Co-Applicant **CN1**     
+        - Post-Doc at Chair of Communication Networks, JMU Würzburg
+        - Co-Applicant [**CN1**](/research/cn1)    
     - name: Helmut Reiser
       profile: https://reiser.research.lrz.de/
       image: /img/people/reiser.jpg
       description: |
-        - Co-Applicant **HPC1**  
+        - Deputy Director of the Leibniz Supercomputing Centre (LRZ)
+        - Professor at the Chair of Communication Systems and Systems Programming, LMU Munich 
+        - Deputy Chairman German Research Network (DFN) association
+        - Co-Applicant [**HPC1**](/research/hpc1) 
     - name: Jan Schmidt
       profile: https://www.mnm-team.org/~schmidtja/
       image: /img/people/jan_schmidt.jpg
