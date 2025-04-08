@@ -11,7 +11,7 @@
       profile: https://www.geographie.uni-wuerzburg.de/erdbeobachtung/team/prof-dr-claudia-kuenzer/
       image: /img/people/claudia_kuenzer.jpg
       description: |
-        - Head of Department Land Surface Dynamics (DLR)
+        - Head of department *Land Surface Dynamics*, German Aerospace Center DLR
         - Professor for Remote Sensing, JMU Würzburg
         - PI [**EO1**](/research/eo1/) & [**EO2**](/research/eo2/)
 - tier_name: PIs
@@ -20,7 +20,7 @@
       profile: https://www.mpg.de/307762/animal-behavior-wikelski
       image: /img/people/martin_wikelski.jpeg
       description: |
-          - Director, Max Planck Institute of Animal Behavior
+          - Director, Max Planck Institute of Animal Behavior MPI AB
           - PI [**CE1**](/research/ce1)  
     - name: Nikolas Herbst
       profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/nikolas-herbst/
@@ -38,8 +38,8 @@
       profile: https://de.wikipedia.org/wiki/Dieter_Kranzlm%C3%BCller
       image: /img/people/kranzlmueller.jpg
       description: |
-          - Chair of the board of directors, Leibniz Supercomputing Centre (LRZ)
-          - Professor at the LMU, Munich Network Management Team (MNM-Team)
+          - Chair of the board of directors, Leibniz Supercomputing Centre LRZ
+          - Professor at the LMU, Munich Network Management MNN team
           - PI [**HPC1**](/research/hpc1)
 - tier_name: Computer Science Researchers
   size: small
@@ -54,21 +54,21 @@
       profile: https://reiser.research.lrz.de/
       image: /img/people/reiser.jpg
       description: |
-        - Deputy director, Leibniz Supercomputing Centre (LRZ)
-        - Professor at the Chair of Communication Systems, LMU Munich 
-        - Deputy chairman German Research Network (DFN) association
+        - Deputy director, Leibniz Supercomputing Centre LRZ
+        - Professor, Chair of Communication Systems, LMU Munich 
+        - Deputy chairman, German Research Network DFN
         - Co-applicant [**HPC1**](/research/hpc1) 
     - name: Jan Schmidt
       profile: https://www.mnm-team.org/~schmidtja/
       image: /img/people/jan_schmidt.jpg
       description: |
-        - Doctoral researcher, LMU and Leibniz Supercomputing Centre (LRZ), Munich
+        - Doctoral researcher, LMU and Leibniz Supercomputing Centre LRZ, Munich
         - Member [**HPC1**](/research/hpc1) 
     - name: Viktoria Pauw
       profile: https://de.linkedin.com/in/viktoria-pauw-495782261
       image: /img/people/viktoria_pauw.jpg
       description: |
-        - Team lead *Environmental Computing*, Leibniz Supercomputing Centre (LRZ)
+        - Team lead *Environmental Computing*, Leibniz Supercomputing Centre LRZ
         - Member [**HPC1**](/research/hpc1)  
     - name: David Raunecker
       profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/david-raunecker/
@@ -96,43 +96,43 @@
       profile: https://de.linkedin.com/in/andreas-dietz-997387b1?original_referer=https%3A%2F%2Fwww.google.com%2F
       image: /img/people/andreas_dietz.jpeg
       description: |
-        - Group leader *Polar and Mountain Regions*, German Aerospace Center (DLR)
+        - Group lead *Polar and Mountain Regions*, German Aerospace Center DLR
         - Co-applicant [**EO1**](/research/eo1/) & member [**EO2**](/research/eo2/)
     - name: Celia Baumhoer
       profile: https://celiabaumhoer.github.io/
       image: /img/people/celia_baumhoer.jpeg
       description: |
-        - Postdoctoral researcher, German Aerospace Center (DLR)
+        - Postdoctoral researcher, German Aerospace Center DLR
         - Member *Polar and Mountain Regions* group. 
         - Co-applicant [**EO2**](/research/eo2/) & member [**EO1**](/research/eo1/)
     - name: Kamran Safi
       profile: https://www.ab.mpg.de/person/98254/2736
       image: /img/people/kamran_safi.jpg
       description: |
-        - Group lead *Animal-Environment Interactions Lab*, Max Planck Institute for Animal Behavior (MPI AB)
+        - Group lead *Animal-Environment Interactions Lab*, Max Planck Institute for Animal Behavior MPI AB
         - Co-applicant [**CE1**](/research/ce1)
     - name: Andrea Kölzsch
       profile: https://www.ab.mpg.de/person/98278/2736
       image: /img/people/andrea_koelzsch.jpg
       description: |
           - Assistant professor, Department of Ecology, Radboud University, NL
-          - Associated researcher, Max Planck Institute for Animal Behavior (MPI AB)
+          - Associated researcher, Max Planck Institute for Animal Behavior MPI AB
           - Co-applicant [**CE1**](/research/ce1)
     - name: Anne Scharf
       profile: https://www.ab.mpg.de/person/98255/2736
       image: /img/people/Scharf_Anne.jpg
       description: |
-          - Postdoctoral researcher *Animal-Environment Interactions Lab*, Max Planck Institute for Animal Behavior (MPI AB)
+          - Postdoctoral researcher *Animal-Environment Interactions Lab*, Max Planck Institute for Animal Behavior MPI AB
           - Co-applicant [**CE1**](/research/ce1)
     - name: Helena Wehner
       profile: https://de.linkedin.com/in/helena-wehner-2517a0346
       image: /img/people/helena_wehner.jpg
       description: |
-          - Doctoral researcher, JMU Würzburg & German Aerospace Center (DLR)
+          - Doctoral researcher, JMU Würzburg & German Aerospace Center DLR
           - Member [**EO1**](/research/eo1/)
     - name: Sarah Leibrock
       profile: https://de.linkedin.com/in/sarahleibrock
       image: /img/people/sarah_leibrock.jpeg
       description: |
-          - Doctoral researcher, JMU Würzburg & German Aerospace Center (DLR)
+          - Doctoral researcher, JMU Würzburg & German Aerospace Center DLR
           - Member [**EO2**](/research/eo2/)
