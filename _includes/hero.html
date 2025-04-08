@@ -1,3 +1,4 @@
+{% unless page.show_hero == false %}
 <section
     class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary"
     {% if page.hero_image %}
@@ -18,3 +19,4 @@
         </div>
     </div>
 </section>
+{% endunless %}

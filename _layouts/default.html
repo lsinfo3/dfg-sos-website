@@ -48,6 +48,13 @@
                     </div>
                     {% if site.posts and page.show_sidebar %}
                         <div class="column is-4-desktop is-4-tablet">
+                            {% if page.show_logo_sidebar %}
+                            <div class="mb-4 has-text-centered">
+                                <img src="/assets/img/DFG-RU-SOS-dark_trim.webp"
+                                     alt="Sidebar Logo"
+                                     style="width: auto; max-height: 200px; margin-bottom: 1rem;">
+                            </div>
+                            {% endif %}
                             {% include latest-posts.html %}
                         </div>
                     {% endif %}

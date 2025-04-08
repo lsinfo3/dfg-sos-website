@@ -1,11 +1,10 @@
 ---
 layout: page
 image: assets/img/DFG-RU-SOS-dark_trim_fill50percent.webp
-hero_image: assets/img/DFG-RU-SOS-dark_trim_fill50percent.webp
-hero_height: is-small
-hero_darken: true
+show_hero: false
 callouts: home_callouts
 show_sidebar: true
+show_logo_sidebar: false
 ---
 # Scientific Computing for Earth Observation and Sustainability (SOS) - A DFG Research Unit
 Modern research in the field of **Earth Observation (EO)** and **sustainability** presents challenges for computing, storage, and communication infrastructure required to analyze the vast amounts of data from remote sensing systems. To develop, execute, optimize, and maintain EO workflows, geoscientists need in-depth expertise in **IT and data sciences**.  
