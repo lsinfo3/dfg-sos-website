@@ -62,10 +62,10 @@ In parallel to the three geoscientist-driven projects, four interlinked projects
 on the design of the core components of the SOS framework targeting the following specific objectives:
 - [Subproject SE1](/research/se1): Component-based EO workflow engineering methodology including novel modeling abstractions for reusable workflow specification, design, and implementation, as well as tailored development processes supporting
 application-level automation, sharing, reuse, extensibility, and workflow evolution within and across multiple research projects, teams, and application domains.
-- [Subproject SE2](/research/se2): Self-aware EO workflow orchestration providing efficient workflow scheduling, predictable resource con￾sumption and time-to-result, reproducible workflow execution, resource usage transparency and accountability,
+- [Subproject SE2](/research/se2): Self-aware EO workflow orchestration providing efficient workflow scheduling, predictable resource consumption and time-to-result, reproducible workflow execution, resource usage transparency and accountability,
 as well as fault tolerance.
 - [Subproject CN1](/research/cn1): Scalable and energy-efficient network and infrastructure resource management of compute, storage, and
 network resources, tackling the challenges of large-scale data volumes, I/O and compute-intensive workloads,
 as well as distributed and heterogeneous data sources and infrastructure resources.
-- [Subproject HPC1](/research/hpc1): Integration of heterogeneous cloud and HPC resources for security-aware high-volume EO data pro￾cessing, including mechanisms to integrate heterogeneous compute, memory, and storage systems into the
+- [Subproject HPC1](/research/hpc1): Integration of heterogeneous cloud and HPC resources for security-aware high-volume EO data processing, including mechanisms to integrate heterogeneous compute, memory, and storage systems into the
 serverless framework while enabling user access and job deployment among separated security zones.
