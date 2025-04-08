@@ -66,8 +66,10 @@
         - Member **HPC1**  
     - name: David Raunecker
       profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/david-raunecker/
-      image: /img/people/david_raunecker2.jpg
+      image: /img/people/raunecker.jpg
       description: |
+        - PhD student at the Chair of Communication Networks at the University of 
+        Wuerzburg
         - Member **CN1**
     - name: Lorenz Gruber
       profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/lorenz-gruber/
