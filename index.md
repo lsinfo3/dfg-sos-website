@@ -4,9 +4,10 @@ image: assets/img/DFG-RU-SOS-dark_trim_fill50percent.webp
 show_hero: false
 callouts: home_callouts
 show_sidebar: true
-show_logo_sidebar: false
+show_dfg_sidebar: true
 ---
-# Scientific Computing for Earth Observation and Sustainability (SOS) - A DFG Research Unit
+# Serverless Scientific Computing for Earth Observation and Sustainability 
+##### SOS - DFG Research Unit 5696
 Modern research in the field of **Earth Observation (EO)** and **sustainability** presents challenges for computing, storage, and communication infrastructure required to analyze the vast amounts of data from remote sensing systems. To develop, execute, optimize, and maintain EO workflows, geoscientists need in-depth expertise in **IT and data sciences**.  
 
 Developers face challenges such as:  
@@ -20,7 +21,7 @@ This leads to **limited reusability** of workflow implementations and **poor rep
 ## Research Goals  
 
 The main goal of this research group is to develop a **framework** consisting of a set of methods, models, and architectures that serve as the foundation for **"serverless" scientific computing and engineering**. In **serverless computing**, computing, storage, and communication resources are abstracted.  
-
+[_config.yml](_config.yml)
 ### Specific Objectives  
 
 1. **Automation, sharing, and reuse** of EO workflows across projects, teams, application domains, and organizations.  
