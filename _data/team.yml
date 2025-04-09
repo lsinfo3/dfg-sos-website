@@ -5,13 +5,13 @@
       profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/samuel-kounev/
       image: /img/people/samuel_kounev.jpg
       description: |
-        - Professor & chair of Software Engineering, JMU Würzburg
+        - Professor & Chair of Software Engineering, JMU Würzburg
         - PI [**SE2**](/research/se2/) and [**RU Coordination**](/)
     - name: Claudia Künzer
       profile: https://www.geographie.uni-wuerzburg.de/erdbeobachtung/team/prof-dr-claudia-kuenzer/
       image: /img/people/claudia_kuenzer.jpg
       description: |
-        - Head of department *Land Surface Dynamics*, German Aerospace Center DLR
+        - Head of Department *Land Surface Dynamics*, German Aerospace Center DLR
         - Professor for Remote Sensing, JMU Würzburg
         - PI [**EO1**](/research/eo1/) & [**EO2**](/research/eo2/)
 - tier_name: PIs
@@ -26,19 +26,19 @@
       profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/nikolas-herbst/
       image: /img/people/nikolas_herbst.jpg
       description: |
-          - Postdoctoral researcher, Chair of Software-Engineering, JMU Würzburg
+          - Postdoctoral Researcher, Chair of Software-Engineering, JMU Würzburg
           - PI [**SE1**](/research/se1)
     - name: Tobias Hoßfeld
       profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/hossfeld/
       image: /img/people/tobias_hossfeld.jpg
       description: |
-          - Professor & chair of Communication Networks, JMU Würzburg
+          - Professor & Chair of Communication Networks, JMU Würzburg
           - PI [**CN1**](/research/cn1)
     - name: Dieter Kranzlmüller
       profile: https://de.wikipedia.org/wiki/Dieter_Kranzlm%C3%BCller
       image: /img/people/kranzlmueller.jpg
       description: |
-          - Chair of the board of directors, Leibniz Supercomputing Centre LRZ
+          - Chair of the Board of Directors, Leibniz Supercomputing Centre LRZ
           - Professor at the LMU, Munich Network Management MNN team
           - PI [**HPC1**](/research/hpc1)
 - tier_name: Computer Science Researchers
@@ -48,45 +48,45 @@
       profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/stefan-geissler/
       image: /img/people/geissler.jpg
       description: |
-        - Postdoctoral researcher, Chair of Communication Networks, JMU Würzburg
+        - Postdoctoral Researcher, Chair of Communication Networks, JMU Würzburg
         - Co-Applicant [**CN1**](/research/cn1)    
     - name: Helmut Reiser
       profile: https://reiser.research.lrz.de/
       image: /img/people/reiser.jpg
       description: |
-        - Deputy director, Leibniz Supercomputing Centre LRZ
+        - Deputy Director, Leibniz Supercomputing Centre LRZ
         - Professor, Chair of Communication Systems, LMU Munich 
-        - Deputy chairman, German Research Network DFN
+        - Deputy Chairman, German Research Network DFN
         - Co-applicant [**HPC1**](/research/hpc1) 
     - name: Jan Schmidt
       profile: https://www.mnm-team.org/~schmidtja/
       image: /img/people/jan_schmidt.jpg
       description: |
-        - Doctoral researcher, LMU and Leibniz Supercomputing Centre LRZ, Munich
+        - Doctoral Researcher, LMU and Leibniz Supercomputing Centre LRZ, Munich
         - Member [**HPC1**](/research/hpc1) 
     - name: Viktoria Pauw
       profile: https://de.linkedin.com/in/viktoria-pauw-495782261
       image: /img/people/viktoria_pauw.jpg
       description: |
-        - Team lead *Environmental Computing*, Leibniz Supercomputing Centre LRZ
+        - Team Lead *Environmental Computing*, Leibniz Supercomputing Centre LRZ
         - Member [**HPC1**](/research/hpc1)  
     - name: David Raunecker
       profile: https://www.informatik.uni-wuerzburg.de/comnet/team/staff/david-raunecker/
       image: /img/people/raunecker.jpg
       description: |
-        - Doctoral researcher, Chair of Communication Networks, JMU Würzburg
+        - Doctoral Researcher, Chair of Communication Networks, JMU Würzburg
         - Member [**CN1**](/research/cn1) 
     - name: Lorenz Gruber
       profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/lorenz-gruber/
       image: /img/people/lorenz_gruber.jpg
       description: |
-        - Doctoral researcher, Chair of Software Engineering, JMU Würzburg
+        - Doctoral Researcher, Chair of Software Engineering, JMU Würzburg
         - Member [**SE1**](/research/se1) & [**SE2**](/research/se2)
     - name: David Linke
       profile: https://de.linkedin.com/in/david-linke-180751297
       image: /img/people/david_linke.jpeg
       description: |
-        - Master's student, JMU Würzburg
+        - Master's Student, JMU Würzburg
         - Member [**SE1**](/research/se1)
 
 - tier_name: Earth Observation & Biodiversity Scientists
@@ -96,43 +96,43 @@
       profile: https://de.linkedin.com/in/andreas-dietz-997387b1?original_referer=https%3A%2F%2Fwww.google.com%2F
       image: /img/people/andreas_dietz.jpeg
       description: |
-        - Group lead *Polar and Mountain Regions*, German Aerospace Center DLR
+        - Group Lead *Polar and Mountain Regions*, German Aerospace Center DLR
         - Co-applicant [**EO1**](/research/eo1/) & member [**EO2**](/research/eo2/)
     - name: Celia Baumhoer
       profile: https://celiabaumhoer.github.io/
       image: /img/people/celia_baumhoer.jpeg
       description: |
-        - Postdoctoral researcher, German Aerospace Center DLR
+        - Postdoctoral Researcher, German Aerospace Center DLR
         - Member *Polar and Mountain Regions* group. 
         - Co-applicant [**EO2**](/research/eo2/) & member [**EO1**](/research/eo1/)
     - name: Kamran Safi
       profile: https://www.ab.mpg.de/person/98254/2736
       image: /img/people/kamran_safi.jpg
       description: |
-        - Group lead *Animal-Environment Interactions Lab*, Max Planck Institute for Animal Behavior MPI AB
+        - Group Lead *Animal-Environment Interactions Lab*, Max Planck Institute for Animal Behavior MPI AB
         - Co-applicant [**CE1**](/research/ce1)
     - name: Andrea Kölzsch
       profile: https://www.ab.mpg.de/person/98278/2736
       image: /img/people/andrea_koelzsch.jpg
       description: |
-          - Assistant professor, Department of Ecology, Radboud University, NL
-          - Associated researcher, Max Planck Institute for Animal Behavior MPI AB
+          - Assistant Professor, Department of Ecology, Radboud University, NL
+          - Associated Researcher, Max Planck Institute for Animal Behavior MPI AB
           - Co-applicant [**CE1**](/research/ce1)
     - name: Anne Scharf
       profile: https://www.ab.mpg.de/person/98255/2736
       image: /img/people/Scharf_Anne.jpg
       description: |
-          - Postdoctoral researcher *Animal-Environment Interactions Lab*, Max Planck Institute for Animal Behavior MPI AB
+          - Postdoctoral Researcher *Animal-Environment Interactions Lab*, Max Planck Institute for Animal Behavior MPI AB
           - Co-applicant [**CE1**](/research/ce1)
     - name: Helena Wehner
       profile: https://de.linkedin.com/in/helena-wehner-2517a0346
       image: /img/people/helena_wehner.jpg
       description: |
-          - Doctoral researcher, JMU Würzburg & German Aerospace Center DLR
+          - Doctoral Researcher, JMU Würzburg & German Aerospace Center DLR
           - Member [**EO1**](/research/eo1/)
     - name: Sarah Leibrock
       profile: https://de.linkedin.com/in/sarahleibrock
       image: /img/people/sarah_leibrock.jpeg
       description: |
-          - Doctoral researcher, JMU Würzburg & German Aerospace Center DLR
+          - Doctoral Researcher, JMU Würzburg & German Aerospace Center DLR
           - Member [**EO2**](/research/eo2/)
