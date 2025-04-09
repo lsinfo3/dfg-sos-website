@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: project
 title: "CN1: Network and Infrastructure Resource Management"
 subtitle:  for High-Volume EO Data Processing
+project: cn1
 ---
 ## Summary
 To facilitate the processing of EO data in a heterogeneous computation resource landscape and subject to a number of request-specific constraints, a sophisticated method of workflow task placement is needed. Subproject CN1 aims to develop a data-centric and compute-centric networking architecture that consolidates network management and the management of the serverless platform. In order to manage the resource demands of complex EO workflows, the development of a fitting infrastructure abstraction layer is a key research area, enabling fine-tuned task placement decisions in a multi-objective environment. Due to the incorporation of workflow-specific optimizations, and the integration of high-performance computing into the networked resources, the project is tightly connected to both subprojects SE2 and HPC1.

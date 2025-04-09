@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: project
 title: "SE1: Component-based EO Workflow Engineering"
 subtitle: Application-level Automation, Sharing, Reuse, and Evolution
+project: se1
 ---
 # Context & Motivation
 Today, researchers and domain experts in remote sensing and computational ecology typically design their workflows from scratch with limited sharing and reusability across teams and organization.
@@ -21,4 +22,4 @@ We focus on developing a component-based EO workflow engineering methodology pro
 On a more technical level, a core outcome will be a repository for packaged workflow components interlinked with a data catalog.
 With this central repository, this subproject will interface between: 
 1. the domain researchers including their respective requirements towards functionality and usability 
-2. the self-aware serverless workflow orchestration by handing over the required workflow models for deployment and execution.
+2. the self-aware serverless workflow orchestration by handing over the required workflow models for deployment and execution.[_config.yml](../_config.yml)

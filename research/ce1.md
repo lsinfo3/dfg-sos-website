@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: project
 title: "CE1: Predicting changes in biodiversity and space use by co-analysis of animal movement data with EO products:"
 subtitle: An empowerment approach
+project: ce1
 ---
 # Context
 The interplay between organisms and their environment significantly shapes ecosystem functionality and stability.

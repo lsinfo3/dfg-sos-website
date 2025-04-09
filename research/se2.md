@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: project
 title: "SE2: Self-Aware EO Workflow Orchestration"
 subtitle: Performance Prediction, Optimization, Fault-Tolerance, and Reproducibility
+project: se2
 ---
 # Context & Problem Statement
 Modern scientific workflows in Earth Observation (EO) and sustainability research are increasingly dynamic with their behavior often being influenced by the initial input data and intermediate results only available during execution.

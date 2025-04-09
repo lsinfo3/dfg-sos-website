@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: project
 title: "EO1: High volume EO data processing to reveal causalities between land surface dynamics and animal movement pathways"
 subtitle: 
+project: eo1
 ---
 # Summary
 Climate change influences animal movement through a multitude of environmental effects which can be challenging to observe and analyze due to the complexity and sheer size of the required datasets.

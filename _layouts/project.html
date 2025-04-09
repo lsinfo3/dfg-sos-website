@@ -1,0 +1,78 @@
+---
+layout: default
+---
+{% if page.toc %}
+    {% assign contentsTitle = page.toc_title | default: 'Contents' %}
+    {% include toc.html html=content class='menu-list' h_min=2 h_max=3 contents_title=contentsTitle %}
+{% endif %}
+{% assign tiers=site.data["team"] %}
+<div class="content">
+    {{ content }}
+</div>
+<style>
+    ul, .team-member-description ul {
+        list-style-type: disc !important;
+        padding-left: 20px !important;
+    }
+</style>
+<br>
+<p class="title is-3">
+    <span>Team</span>
+</p>
+<br>
+{% assign pi = "" %}
+{% assign members = "" | split: "" %}
+
+{% for tier in tiers %}
+        {% for member in tier.sponsors %}
+            {% for project in member.projects %}
+                {% if project.name == page.project %}
+                    {% if project.role == "pi" %}
+                        {% assign pi = member%}
+                    {% else %}
+                        {% assign members = members | push: member %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+    {% endfor %}
+{% endfor %}
+
+
+<div class="columns is-multiline">
+    <div class="column is-3-desktop is-4-tablet">
+        <div class="card">
+            <a href="{{pi.profile}}" target="_blank">
+                <div class="card-image has-text-centered">
+                    <figure class="image is-256x256 is-inline-block">
+                        <img class="is-rounded" src="{{ pi.image }}" />
+                    </figure>
+                </div>
+
+                <div class="card-content">
+                    <p class="title is-6">
+                        {{ pi.name }} (PI)
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div>
+    {% for member in members %}
+    <div class="column is-3-desktop is-4-tablet">
+        <div class="card">
+            <a href="{{member.profile}}" target="_blank">
+                <div class="card-image has-text-centered">
+                    <figure class="image is-256x256 is-inline-block">
+                        <img class="is-rounded" src="{{ member.image }}" />
+                    </figure>
+                </div>
+
+                <div class="card-content">
+                    <p class="title is-6">
+                        {{ member.name }}
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+</div>

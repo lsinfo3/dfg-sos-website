@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: project
 title: "HPC1: Integration of heterogeneous cloud and high-performance computing resources for security-aware high-volume EO data processing"
 subtitle: 
+project: hpc1
 ---
 # Summary
 *HPC1* seeks to redefine the integration of cloud-native environments with traditional high-performance computing (HPC). 

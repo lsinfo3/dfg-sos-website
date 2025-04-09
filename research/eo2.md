@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: project
 title: "EO2: Analyzing globally distributed EO data to quantify and predict the impact of climate change on snow cover and snowmelt dynamics"
 subtitle: 
+project: eo2
 ---
 # Summary
 Snow cover, lake ice cover and water extent are highly important for animals in cold and polar regions. 
