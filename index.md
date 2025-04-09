@@ -6,7 +6,7 @@ callouts: home_callouts
 show_sidebar: true
 show_dfg_sidebar: true
 ---
-# Serverless Scientific Computing for Earth Observation and Sustainability 
+# Serverless Scientific Computing for Earth Observation and Sustainability Research 
 ##### SOS - DFG Research Unit 5696
 Modern research in the field of **Earth Observation (EO)** and **sustainability** presents challenges for computing, storage, and communication infrastructure required to analyze the vast amounts of data from remote sensing systems. To develop, execute, optimize, and maintain EO workflows, geoscientists need in-depth expertise in **IT and data sciences**.  
 
@@ -35,12 +35,15 @@ We believe these goals can only be achieved through collaboration between **comp
 - **(a)** Investigating the impact of **land surface dynamics** on the movement patterns of **migrating animals** as a basis for predicting future space usage and species composition.  
 - **(b)** Examining the effects of **climate change** on **snow cover and melting**.  
 
-![SOS Illustration](img/sos/sos-illustration.png)
+<img src="img/sos/sos-illustration.png" width="800"/>
 
-## Expected Impact  
+[//]: # (## Expected Impact  )
 
-Overall, we anticipate a **significant impact** on the state of research in **scientific computing for Earth observation and sustainability studies**. This will:  
-- Greatly enhance **productivity** in these domains.  
-- Enable **novel interdisciplinary research opportunities** beyond remote sensing and ecology.  
+[//]: # ()
+[//]: # (Overall, we anticipate a **significant impact** on the state of research in **scientific computing for Earth observation and sustainability studies**. This will:  )
+
+[//]: # (- Greatly enhance **productivity** in these domains.  )
+
+[//]: # (- Enable **novel interdisciplinary research opportunities** beyond remote sensing and ecology.  )
 
 
