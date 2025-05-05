@@ -7,7 +7,7 @@ date: 2025-04-01
 image: /img/posts/2025-04-01-alpine-glaciers.jpg
 hero_height: is-small
 hero_darken: true
-tags: example blog
+tags: publication
 hide_share_buttons: true
 category: blog
 ---
