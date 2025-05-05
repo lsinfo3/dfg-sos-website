@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nikolas Herbst
-title: terrabyte: Research based on satellite data
+title: "terrabyte: Research based on satellite data"
 date: 2025-01-13
 image: /img/posts/2025-05-05_root_teaser.png
 hero_height: is-small
