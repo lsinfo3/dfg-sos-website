@@ -2,7 +2,7 @@
 layout: post
 author: Helena Wehner
 title: "Wildlife Ecology Research in Terrestrial Polar and Mountain Regions"
-subtitle: Systematic Review of Satellite-Based Earth Observation Applications
+subtitle: "A Systematic Review of Satellite-Based Earth Observation Applications"
 date: 2025-08-11
 image: /img/posts/2025-08-11-eo1-slr-wildlifePolarEO.png
 hero_height: is-small
