@@ -24,6 +24,19 @@ $hero-darken: $dark !default;
   color: #ea4aaa;
 }
 
+body{
+  font-size: 14px;
+}
+
+.navbar-item{
+  font-size: 18px;
+}
+
+.main-content-spacing{
+  overflow: hidden;
+  border-radius: 12px;
+  border: 1rem solid #f5f5f5; // Light gray border
+}
 
 .sidebar .card {
   max-width: 100% !important;
@@ -34,8 +47,4 @@ $hero-darken: $dark !default;
 }
 .no-formatting-link:hover {
   cursor: pointer;
-}
-
-.main-content-spacing {
-  padding-right: 2.5rem; // Increase as needed
 }
