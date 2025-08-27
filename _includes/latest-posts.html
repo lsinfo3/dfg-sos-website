@@ -1,6 +1,6 @@
 <p class="title is-4" style="margin-bottom:1rem;">Latest Posts</p>
 
-<div class="columns is-multiline">
+<div>
     {% for post in site.posts limit: 3 %}
         <div class="column is-12 sidebar">
             {% include post-card.html %}
