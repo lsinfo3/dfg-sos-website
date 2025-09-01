@@ -125,6 +125,14 @@
       description: |
         - Master's Student, JMU Würzburg
         - Member [**SE2**](/research/se2)
+    - name: Nicola Ferger
+      profile: https://www.linkedin.com/in/nicola-ferger-6a1540281/
+      image: /img/people/nicola_ferger.jpg
+      projects:
+        - name: se2
+      description: |
+        - Master's Student, JMU Würzburg
+        - Member [**SE2**](/research/se2)        
 
 - tier_name: Earth Observation & Biodiversity Scientists
   size: small
