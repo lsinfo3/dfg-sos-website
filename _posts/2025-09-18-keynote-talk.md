@@ -3,8 +3,8 @@ layout: post
 author: Lorenz Gruber
 title: Keynote Talk by Prof. Samuel Kounev at IEEE eScience 2025 on September 17th, 2025
 date: 2025-09-17
-#hero_image: /img/posts/2025-08-18-keynote-talk.jpg
-image: /img/posts/2025-08-18-keynote-talk.jpg
+#hero_image: /img/posts/2025-08-17-keynote-talk.jpg
+image: /img/posts/2025-08-17-keynote-talk.jpg
 hero_height: is-small
 hero_darken: true
 tags: meeting
