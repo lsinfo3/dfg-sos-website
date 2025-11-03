@@ -50,10 +50,16 @@ exclude:
 livereload: true
 
 scholar:
-   style: /_bibliography/ieee.csl
-   source: /_bibliography
-   bibliography: references.bib
-   # bibliography_template: "<b>[{{key}}]</b>  {{reference}}"
+  style: /_bibliography/ieee.csl
+  locale: en
+
+scholar_papers:
+  bibliography: _bibliography/papers.bib
+  style: /_bibilography/ieee.csl
+
+scholar_talks:
+  bibliography: _bibliography/talks.bib
+  style: /_bibliography/ieee.csl
 
 
 sass:

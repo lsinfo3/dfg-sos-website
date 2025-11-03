@@ -5,7 +5,10 @@ subtitle:
 show_sidebar: false
 ---
 
+##	Papers
 
+{% bibliography --file papers %}
 
-{% bibliography --template scholartemplate %}
+##	Talks
 
+{% bibliography --file talks %}
