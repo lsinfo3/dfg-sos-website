@@ -55,7 +55,7 @@ scholar:
 
 scholar_papers:
   bibliography: _bibliography/papers.bib
-  style: /_bibilography/ieee.csl
+  style: /_bibliography/ieee.csl
 
 scholar_talks:
   bibliography: _bibliography/talks.bib
