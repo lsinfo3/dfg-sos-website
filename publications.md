@@ -5,12 +5,11 @@ subtitle:
 show_sidebar: false
 ---
 
-##	Papers
+#	Papers
 
 {% bibliography --config scholar_papers %}
 
-
-##	Talks
+#	Talks
 
 {% bibliography --config scholar_talks %}
 
