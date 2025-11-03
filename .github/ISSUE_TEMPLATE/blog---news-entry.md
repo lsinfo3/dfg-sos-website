@@ -8,8 +8,8 @@ assignees: ''
 ---
 
 # Title
-*add title here*
+*add title of blog/news entry here*
 # Text
-*add text for news / blog entry here. minimum 2 sentences*
+*add text for blog/news entry here. Minimum 2 sentences + link to original source (if applicable)*
 # Image
 *upload image here to be used for the blog/news entry*
