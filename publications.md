@@ -7,9 +7,9 @@ show_sidebar: false
 
 #	Papers
 
-{% bibliography --config scholar_papers %}
+{% bibliography --file papers %}
 
 #	Talks
 
-{% bibliography --config scholar_talks %}
+{% bibliography --file talks %}
 
