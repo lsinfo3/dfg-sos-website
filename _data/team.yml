@@ -123,7 +123,7 @@
       projects:
         - name: se2
       description: |
-        - Master's Student, JMU Würzburg
+        - Doctoral Researcher, Chair of Software Engineering, JMU Würzburg
         - Member [**SE2**](/research/se2)
     - name: Nicola Ferger
       profile: https://www.linkedin.com/in/nicola-ferger-6a1540281/
@@ -133,6 +133,24 @@
       description: |
         - Master's Student, JMU Würzburg
         - Member [**SE2**](/research/se2)        
+    - name: Markus Lechner
+      profile: https://lemarkus.eu/
+      image: /img/people/placeholder.png
+      projects:
+        - name: hpc1
+      description: |
+        - Research Assistant, Leibniz Supercomputing Centre LRZ
+        - Member [**HPC1**](/research/hpc1)
+    - name: David Dingel
+      profile: https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/david-dingel/
+      image: /img/people/placeholder.png
+      projects:
+        - name: se2
+      description: |
+        - Doctoral Researcher, Chair of Software Engineering, JMU Würzburg
+        - Member [**SE2**](/research/se2)
+
+
 
 - tier_name: Earth Observation & Biodiversity Scientists
   size: small
@@ -197,3 +215,11 @@
       description: |
           - Doctoral Researcher, JMU Würzburg & German Aerospace Center DLR
           - Member [**EO2**](/research/eo2/)
+    - name: Fabio Baruffa
+      profile: https://www.linkedin.com/in/dr-fabio-baruffa
+      image: /img/people/placeholder.png
+      projects:
+        - name: ce1
+      description: |
+          - Tech Lead *HPC \| Cloud \| Quantum Computing*, MPCDF
+          - Member [**CE1**](/research/ce1)
