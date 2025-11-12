@@ -129,6 +129,7 @@
       profile: https://www.linkedin.com/in/nicola-ferger-6a1540281/
       image: /img/people/nicola_ferger.jpg
       projects:
+        - name: se1
         - name: se2
       description: |
         - Master's Student, JMU Würzburg
