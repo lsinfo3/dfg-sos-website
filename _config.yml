@@ -18,7 +18,7 @@ pagination:
    enabled: true
    per_page: 5
    sort_field: 'date'
-   sord_reverse: true
+   sort_reverse: true
 
 # Disqus Comments
 disqus:
