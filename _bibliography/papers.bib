@@ -67,3 +67,21 @@ url = {https://doi.ieeecomputersociety.org/10.1109/eScience65000.2025.00027},
 publisher = {IEEE Computer Society},
 address = {Los Alamitos, CA, USA},
 month =sep}
+
+@inproceedings{10.1145/3676151.3719364,
+author = {Rohwer, Ivo and Herbst, Nikolas and Schwinger, Maximilian and Friedl, Peter and Stephan, Michael and Kounev, Samuel},
+title = {PARAGRAPH: Phase-Aware Resource Demand Profiling for HPDA/HPC Jobs},
+year = {2025},
+isbn = {9798400710735},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3676151.3719364},
+doi = {10.1145/3676151.3719364},
+abstract = {The processing of large amounts of data in central high performance data analytics (HPDA) systems is playing an increasingly important role in science and business. However, many HPDA systems exhibit a low utilization of their available resources during normal operation. An important reason for this underutilization is that too many resources are reserved for individual jobs. This is often a consequence of the common practice of reserving a uniform amount of resources such as CPU or memory for the entire execution time of a job. Given that many data intensive (DI) jobs consist of different phases with different resource demands, resources are normally reserved according to the demand of the most resource-intensive phase. This results in more resources being reserved over a long period of time than are actually needed.Flexible resource allocation techniques require detailed information about the resource demands of individual jobs to be applied effectively. In this work, we present PARAGRAPH, an approach to create phase models and resulting phase-aware resource demand profiles for individual job types from training datasets of resource consumption time series. PARAGRAPH considers the individual jobs as black boxes and fully relies on recorded system-level metrics. To do this, we first extract the different phases from the resource consumption time series using a BinSeg-based algorithm. We then apply the C-DBSCAN clustering algorithm to assign labels to the individual segments. Based on this information, a phase model and a resource demand profile can be extracted. These phase-aware resource demand profiles can then be used for scheduling decisions. We evaluate PARAGRAPH in an experimental scenario that allows flexible resource reservation on a HPDA platform. Here, we show that a given set of job instances can be executed up to 29\% faster for a given resource limit due to better resource utilization.},
+booktitle = {Proceedings of the 16th ACM/SPEC International Conference on Performance Engineering},
+pages = {3–10},
+numpages = {8},
+keywords = {hpc computing, phase detection, workflow profiling},
+location = {Toronto ON, Canada},
+series = {ICPE '25}
+}
