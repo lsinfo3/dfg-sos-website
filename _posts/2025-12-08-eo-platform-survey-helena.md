@@ -14,7 +14,7 @@ summary: Through this survey we gained insight into the use of different earth o
 ---
 # Survey on Earth Observation Exploitation Platform Use for Wildlife Ecology
 
-### Wehner, Helena<sup>1</sup> ; Dietz, Andreas<sup>2</sup>, Künzer, Claudia<sup>1,2</sup>
+### Helena Wehner<sup>1</sup>, Andreas Dietz<sup>2</sup>, Claudia Kuenzer<sup>1,2</sup>
 
 1. *Department of Remote Sensing, Institute of Geography and Geology, University of Wuerzburg, 97074 Wuerzburg, Germany*  
 
@@ -65,7 +65,7 @@ Two questions about movement data access and movement data processing were not a
 
 Hereafter we show main results of all questions and survey responses by the groups described in the survey set-up above.
 
-### 4.1. General Earth Observation, Movement Data and Additional Data Use**
+### 4.1. General Earth Observation, Movement Data and Additional Data Use
 
 More than half of all participants do work with earth observation data and satellite-based earth observation data, specifically. Satellite-based earth observation data can be split into level-1 products (raw sensor data), level-2 (top of atmosphere and location corrected data) and level-3 products (analysis ready data, e.g. precalculated indices). Level-1 products are used by less than 10% of all participants, level-2 products by more than 30% and level-3, analysis-ready products are used the most, by more than 40% of all participants. When comparing between satellite-based sensor types most of the participants work with multispectral and optical data. Only a minor part of all participants stated to work with SAR (synthetic aperture radar), thermal and hyperspectral earth observation data. Airborne earth observation data is used by roughly 20%, less work with ground-based earth observation data, e.g. terrestrial laser scanners.
 
