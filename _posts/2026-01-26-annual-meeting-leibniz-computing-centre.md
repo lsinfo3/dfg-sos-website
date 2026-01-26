@@ -2,13 +2,15 @@
 layout: post
 author: Lorenz Gruber
 title: First Annual Meeting at Leibniz Computing Centre
-date: 2026-01-27
+date: 2026-01-20
 image: /img/posts/20260120_meeting_leibnizcentre.jpg
 hero_height: is-small
 hero_darken: true
 tags: meeting
 hide_share_buttons: true
 category: news
+#summary: |-
+#    Last week, our team had the privilege of hosting the kick-off meeting for our new DFG-funded research project Serverless Scientific Computing and Engineering for Earth Observation and Sustainability Research (SOS) at the stunning Umweltforschungsstation Schneefernerhaus. 
 ---
 
 For two days, our DFG Research Unit held its annual meeting hosted by the Leibniz Supercomputing Center, LRZ, in Garching near Munich. Members of the computer science chairs of the University of Wuerzburg and LRZ , colleagues of the “Land Surface Dynamics” department of DLR’s Earth Observation Center, and experts of the Max Planck Institute of Animal Behavior performed a deep-dive on their one-year research. Concepts for innovative and transferable frameworks for serverless scientific computing, including concepts and building blocks to support the extension and integration of existing platforms, were developed and discussed. Research studies on big data Earth Observation processing tailored to these platform concepts and vice versa supply the case studies. Long-time-series-based Earth Observation analyses on land surface dynamics, specifically snow cover, but also other geophysical variables, will help to explain and predict large animal swarm movement pathways, and sustainable processing architectures will enable upscaling and spatial and temporal transfer.
