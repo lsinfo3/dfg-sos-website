@@ -122,6 +122,42 @@ location = {Toronto ON, Canada},
 series = {ICPE '25}
 }
 
+@inproceedings{10.1145/3777911.3800635,
+author = {Gruber, Lorenz and Herbst, Nikolas and Copik, Marcin and Kounev, Samuel},
+title = {From Monolith to Serverless: Running a Component-Based Scientific Workflow Across Execution Paradigms},
+year = {2026},
+isbn = {9798400723261},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3777911.3800635},
+doi = {10.1145/3777911.3800635},
+abstract = {Today, researchers and domain experts in remote sensing typically design their workflows from scratch with limited sharing and reusability across teams and organizations. A component-based approach to workflow engineering addresses these issues by modeling workflows as a DAG of self-contained, reusable tasks, each characterized by its input and output schema, semantics, and metadata. This abstraction enables interchangeable implementations and reuse in future workflows. Furthermore, it would enable fine-grained resource allocation required for a serverless execution of scientific workflows. We demonstrate the flexibility gained in new execution paradigms by implementing a component-based workflow in the Earth Observation (EO) domain. Specifically, we deploy the workflow on a monolithic system and a serverless Function-as-a-Service (FaaS) platform. We show that the monolithic deployment outperforms serverless execution due to greater availability of computing resources and reduced data transfer requirements. Furthermore, our custom scheduler in the local deployment can leverage the DAG structure of inter-task dependencies, in contrast to the limited parallelization options available in application-agnostic schedulers in FaaS systems. In contrast, the serverless deployment could significantly reduce the estimated cost of a workflow execution. Our component-based approach to workflow engineering enabled the decomposition of the computation into a parallel chain of self-contained serverless functions, thereby improving resource utilization, component reuse, and cost efficiency.},
+booktitle = {Companion of the 17th ACM/SPEC International Conference on Performance Engineering},
+pages = {148–153},
+numpages = {6},
+keywords = {workflow engineering, workflow modeling, serverless, scientific workflows, performance measurement},
+location = {Italy},
+series = {ICPE Companion '26}
+}
+
+@inproceedings{10.1145/3777911.3799731,
+author = {Linke, David and Gruber, Lorenz and Dingel, David and Ferger, Nicola and Herbst, Nikolas and Kounev, Samuel},
+title = {Towards a Blackboard-based Scientific Workflow Orchestration: A Proof-of-Concept Implementation (Poster Paper)},
+year = {2026},
+isbn = {9798400723261},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3777911.3799731},
+doi = {10.1145/3777911.3799731},
+abstract = {Over the past few decades, workflow management systems have established themselves as a major tool in scientific computing, enabling the composition and execution of complex analysis tasks on distributed computing resources. This paper presents a proof-of-concept workflow orchestrator based on the blackboard paradigm, designed to decouple workflow logic from resource management while enabling bidirectional synchronization between them. The proposed blackboard architecture provides a shared state and communication layer for workflow models, executions, and platform metadata, supporting coordinated scheduling, placement, and monitoring. Its modular design integrates heterogeneous resource managers and provides a foundation for self-aware learning, workflow-based performance engineering, and resource demand estimation of scientific workflows, as pursued in the DFG research unit SOS.},
+booktitle = {Companion of the 17th ACM/SPEC International Conference on Performance Engineering},
+pages = {98–99},
+numpages = {2},
+keywords = {workflow systems, scientific computing, workflow orchestration, self-aware computing, performance and resource management},
+location = {Italy},
+series = {ICPE Companion '26}
+}
+
 @Inbook{Hoßfeld2025,
 author="Ho{\ss}feld, Tobias
 and Heegaard, Poul E.
