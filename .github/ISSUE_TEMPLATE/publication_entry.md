@@ -8,8 +8,7 @@ assignees: 'EricZischka'
 ---
 
 # Type
-*Choose between `Paper` and `Talk`*
-Paper 
+`Paper` | `Talk`
 # Bibtex
 *Insert Bibtex citation here*
 ```
